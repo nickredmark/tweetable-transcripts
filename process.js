@@ -38,18 +38,18 @@ const shorten = (text) => {
   return parts;
 };
 
-const dialogue = "alcibiades2";
+const dialogue = "jimrutt8";
 
 const raw = readFileSync(`./data/${dialogue}.txt`, "utf8");
 
 const lines = raw
   .replace(/\(compare[^)]+\) ?/gi, "")
-  .split(/\n\n(?=\w+:)/)
+  .split(/\n\n(?=\w[\w ]*:)/)
   .filter(Boolean);
 
 const messages = [];
 for (const line of lines) {
-  const match = /(\w+): ?([^$]+)$/.exec(line);
+  const match = /^(\w[\w ]*): ?(.+)$/.exec(line);
   messages.push({
     author: match[1],
     text: shorten(match[2]),
