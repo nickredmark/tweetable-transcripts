@@ -1,0 +1,1152 @@
+[
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Are you going, Alcibiades, to offer prayer to Zeus?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes, Socrates, I am."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "you seem to be troubled and to cast your eyes on the ground,\nas though you were thinking about something."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Of what do you suppose that I am thinking?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Of the greatest of all things, as I believe. Tell me, do you\nnot suppose that the Gods sometimes partly grant and partly reject the\nrequests which we make in public and private, and favour some persons\nand not others?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Do you not imagine, then, that a man ought to be very careful,\nlest perchance without knowing it he implore great evils for himself,\ndeeming that he is asking for good, especially if the Gods are in the\nmood to grant whatever he may request?",
+      "There is the story of Oedipus,\nfor instance, who prayed that his children might divide their\ninheritance between them by the sword: he did not, as he might have\ndone, beg that his present evils might be averted, but called down new\nones.",
+      "And was not his prayer accomplished, and did not many and terrible\nevils thence arise, upon which I need not dilate?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes, Socrates, but you are speaking of a madman: surely you\ndo not think that any one in his senses would venture to make such a\nprayer?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Madness, then, you consider to be the opposite of discretion?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Of course."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And some men seem to you to be discreet, and others the\ncontrary?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "They do."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Well, then, let us discuss who these are. We acknowledge that\nsome are discreet, some foolish, and that some are mad?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And again, there are some who are in health?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "There are."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "While others are ailing?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And they are not the same?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Nor are there any who are in neither state?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "A man must either be sick or be well?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "That is my opinion."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Very good: and do you think the same about discretion and want\nof discretion?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "How do you mean?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Do you believe that a man must be either in or out of his\nsenses; or is there some third or intermediate condition, in which he is\nneither one nor the other?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Decidedly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "He must be either sane or insane?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "So I suppose."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Did you not acknowledge that madness was the opposite of\ndiscretion?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And that there is no third or middle term between discretion\nand indiscretion?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And there cannot be two opposites to one thing?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "There cannot."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Then madness and want of sense are the same?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "That appears to be the case."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "We shall be in the right, therefore, Alcibiades, if we say\nthat all who are senseless are mad. For example, if among persons\nof your own age or older than yourself there are some who are\nsenseless,--as there certainly are,--they are mad.",
+      "For tell me, by\nheaven, do you not think that in the city the wise are few, while the\nfoolish, whom you call mad, are many?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I do."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But how could we live in safety with so many crazy people?\nShould we not long since have paid the penalty at their hands, and have\nbeen struck and beaten and endured every other form of ill-usage which\nmadmen are wont to inflict?",
+      "Consider, my dear friend: may it not be\nquite otherwise?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Why, Socrates, how is that possible? I must have been\nmistaken."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "So it seems to me. But perhaps we may consider the matter\nthus:--"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "How?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "I will tell you. We think that some are sick; do we not?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And must every sick person either have the gout, or be in\na fever, or suffer from ophthalmia? Or do you believe that a man may\nlabour under some other disease, even although he has none of these\ncomplaints? Surely, they are not the only maladies which exist?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And is every kind of ophthalmia a disease?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And every disease ophthalmia?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Surely not. But I scarcely understand what I mean myself."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Perhaps, if you give me your best attention, 'two of us'\nlooking together, we may find what we seek."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I am attending, Socrates, to the best of my power."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "We are agreed, then, that every form of ophthalmia is a\ndisease, but not every disease ophthalmia?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "We are."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And so far we seem to be right. For every one who suffers from\na fever is sick; but the sick, I conceive, do not all have fever or gout\nor ophthalmia, although each of these is a disease, which, according to\nthose whom we call physicians, may require a different treatment.",
+      "They\nare not all alike, nor do they produce the same result, but each has\nits own effect, and yet they are all diseases. May we not take an\nillustration from the artizans?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "There are cobblers and carpenters and sculptors and others of\nall sorts and kinds, whom we need not stop to enumerate. All have their\ndistinct employments and all are workmen, although they are not all of\nthem cobblers or carpenters or sculptors."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No, indeed."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And in like manner men differ in regard to want of sense.",
+      "Those who are most out of their wits we call 'madmen,' while we term\nthose who are less far gone 'stupid' or 'idiotic,' or, if we prefer\ngentler language, describe them as 'romantic' or 'simple-minded,' or,\nagain, as 'innocent' or 'inexperienced' or 'foolish.",
+      "' You may even find\nother names, if you seek for them; but by all of them lack of sense\nis intended. They only differ as one art appeared to us to differ from\nanother or one disease from another. Or what is your opinion?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I agree with you."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Then let us return to the point at which we digressed. We said\nat first that we should have to consider who were the wise and who the\nfoolish. For we acknowledged that there are these two classes? Did we\nnot?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "To be sure."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And you regard those as sensible who know what ought to be\ndone or said?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "The senseless are those who do not know this?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "The latter will say or do what they ought not without their\nown knowledge?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Exactly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Oedipus, as I was saying, Alcibiades, was a person of\nthis sort. And even now-a-days you will find many who (have offered\ninauspicious prayers), although, unlike him, they were not in anger nor\nthought that they were asking evil.",
+      "He neither sought, nor supposed that\nhe sought for good, but others have had quite the contrary notion.",
+      "I\nbelieve that if the God whom you are about to consult should appear to\nyou, and, in anticipation of your request, enquired whether you would be\ncontented to become tyrant of Athens, and if this seemed in your eyes a\nsmall and mean thing,",
+      "should add to it the dominion of all Hellas;",
+      "and\nseeing that even then you would not be satisfied unless you were ruler\nof the whole of Europe, should promise, not only that, but, if you so\ndesired, should proclaim to all mankind in one and the same day that\nAlcibiades, son of Cleinias, was tyrant:--in such a case,",
+      "I imagine, you\nwould depart full of joy, as one who had obtained the greatest of goods."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "And not only I, Socrates, but any one else who should meet\nwith such luck."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Yet you would not accept the dominion and lordship of all the\nHellenes and all the barbarians in exchange for your life?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not: for then what use could I make of them?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And would you accept them if you were likely to use them to a\nbad and mischievous end?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I would not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You see that it is not safe for a man either rashly to accept\nwhatever is offered him, or himself to request a thing, if he is likely\nto suffer thereby or immediately to lose his life.",
+      "And yet we could tell\nof many who, having long desired and diligently laboured to obtain\na tyranny, thinking that thus they would procure an advantage, have\nnevertheless fallen victims to designing enemies.",
+      "You must have heard of\nwhat happened only the other day, how Archelaus of Macedonia was slain\nby his beloved , whose love for the tyranny was\nnot less than that of Archelaus for him.",
+      "The tyrannicide expected by his\ncrime to become tyrant and afterwards to have a happy life; but when he\nhad held the tyranny three or four days, he was in his turn conspired\nagainst and slain.",
+      "Or look at certain of our own citizens,--and of their\nactions we have been not hearers, but eyewitnesses,--who have desired to\nobtain military command: of those who have gained their object, some\nare even to this day exiles from the city, while others have lost their\nlives.",
+      "And even they who seem to have fared best, have not only gone\nthrough many perils and terrors during their office, but after their\nreturn home they have been beset by informers worse than they once were\nby their foes,",
+      "insomuch that several of them have wished that they\nhad remained in a private station rather than have had the glories\nof command. If, indeed, such perils and terrors were of profit to the\ncommonwealth, there would be reason in undergoing them; but the very\ncontrary is the case.",
+      "Again, you will find persons who have prayed\nfor offspring, and when their prayers were heard, have fallen into the\ngreatest pains and sufferings.",
+      "For some have begotten children who were\nutterly bad, and have therefore passed all their days in misery, while\nthe parents of good children have undergone the misfortune of losing\nthem,",
+      "and have been so little happier than the others that they would\nhave preferred never to have had children rather than to have had\nthem and lost them.",
+      "And yet, although these and the like examples are\nmanifest and known of all, it is rare to find any one who has refused\nwhat has been offered him, or, if he were likely to gain aught by\nprayer, has refrained from making his petition.",
+      "The mass of mankind\nwould not decline to accept a tyranny, or the command of an army, or any\nof the numerous things which cause more harm than good: but rather,\nif they had them not, would have prayed to obtain them.",
+      "And often in a\nshort space of time they change their tone, and wish their old prayers\nunsaid.",
+      "Wherefore also I suspect that men are entirely wrong when they\nblame the gods as the authors of the ills which befall them : 'their own presumption,' or folly (whichever is the right\nword)--\n\n'Has brought these unmeasured woes upon them.' (Homer. Odyss.",
+      ")\n\nHe must have been a wise poet, Alcibiades, who, seeing as I believe, his\nfriends foolishly praying for and doing things which would not really\nprofit them, offered up a common prayer in behalf of them all:--\n\n'King Zeus, grant us good whether prayed for or unsought by us;",
+      "But that\nwhich we ask amiss, do thou avert.' (The author of these lines, which\nare probably of Pythagorean origin, is unknown. They are found also in\nthe Anthology (Anth. Pal.).",
+      ")\n\nIn my opinion, I say, the poet spoke both well and prudently; but if you\nhave anything to say in answer to him, speak out."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "It is difficult, Socrates, to oppose what has been well\nsaid. And I perceive how many are the ills of which ignorance is the\ncause, since, as would appear, through ignorance we not only do, but\nwhat is worse, pray for the greatest evils.",
+      "No man would imagine that\nhe would do so; he would rather suppose that he was quite capable of\npraying for what was best: to call down evils seems more like a curse\nthan a prayer."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But perhaps, my good friend, some one who is wiser than either\nyou or I will say that we have no right to blame ignorance thus rashly,\nunless we can add what ignorance we mean and of what, and also to whom\nand how it is respectively a good or an evil?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "How do you mean? Can ignorance possibly be better than\nknowledge for any person in any conceivable case?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "So I believe:--you do not think so?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And yet surely I may not suppose that you would ever wish to\nact towards your mother as they say that Orestes and Alcmeon and others\nhave done towards their parent."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Good words, Socrates, prithee."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You ought not to bid him use auspicious words, who says that\nyou would not be willing to commit so horrible a deed, but rather him\nwho affirms the contrary, if the act appear to you unfit even to be\nmentioned.",
+      "Or do you think that Orestes, had he been in his senses and\nknew what was best for him to do, would ever have dared to venture on\nsuch a crime?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Nor would any one else, I fancy?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "That ignorance is bad then, it would appear, which is of the\nbest and does not know what is best?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "So I think, at least."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And both to the person who is ignorant and everybody else?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Let us take another case.",
+      "Suppose that you were suddenly to\nget into your head that it would be a good thing to kill Pericles, your\nkinsman and guardian, and were to seize a sword and, going to the doors\nof his house, were to enquire if he were at home,",
+      "meaning to slay only\nhim and no one else:--the servants reply, 'Yes': (Mind, I do not mean\nthat you would really do such a thing; but there is nothing, you think,\nto prevent a man who is ignorant of the best, having occasionally the\nwhim that what is worst is best?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No.)"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "--If, then, you went indoors, and seeing him, did not know him,\nbut thought that he was some one else, would you venture to slay him?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Most decidedly not (it seems to me). (These words are\nomitted in several MSS.)"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "For you designed to kill, not the first who offered, but\nPericles himself?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And if you made many attempts, and each time failed to\nrecognize Pericles, you would never attack him?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Never."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Well, but if Orestes in like manner had not known his mother,\ndo you think that he would ever have laid hands upon her?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "He did not intend to slay the first woman he came across, nor\nany one else's mother, but only his own?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Ignorance, then, is better for those who are in such a frame\nof mind, and have such ideas?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Obviously."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You acknowledge that for some persons in certain cases the\nignorance of some things is a good and not an evil, as you formerly\nsupposed?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I do."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And there is still another case which will also perhaps\nappear strange to you, if you will consider it? (The reading is here\nuncertain.)"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "What is that, Socrates?"
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "It may be, in short, that the possession of all the sciences,\nif unaccompanied by the knowledge of the best, will more often than not\ninjure the possessor.",
+      "Consider the matter thus:--Must we not, when we\nintend either to do or say anything, suppose that we know or ought to\nknow that which we propose so confidently to do or say?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes, in my opinion."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "We may take the orators for an example, who from time to\ntime advise us about war and peace, or the building of walls and the\nconstruction of harbours, whether they understand the business in\nhand, or only think that they do.",
+      "Whatever the city, in a word, does to\nanother city, or in the management of her own affairs, all happens by\nthe counsel of the orators."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But now see what follows, if I can (make it clear to you).\n(Some words appear to have dropped out here.) You would distinguish the\nwise from the foolish?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "The many are foolish, the few wise?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And you use both the terms, 'wise' and 'foolish,' in reference\nto something?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I do."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Would you call a person wise who can give advice, but does not\nknow whether or when it is better to carry out the advice?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Decidedly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Nor again, I suppose, a person who knows the art of war, but\ndoes not know whether it is better to go to war or for how long?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "No."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Nor, once more, a person who knows how to kill another or to\ntake away his property or to drive him from his native land, but not\nwhen it is better to do so or for whom it is better?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Certainly not."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But he who understands anything of the kind and has at the\nsame time the knowledge of the best course of action:--and the best and\nthe useful are surely the same?--"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "--Such an one, I say, we should call wise and a useful adviser\nboth of himself and of the city. What do you think?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I agree."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And if any one knows how to ride or to shoot with the bow or\nto box or to wrestle, or to engage in any other sort of contest or to\ndo anything whatever which is in the nature of an art,--what do you call\nhim who knows what is best according to that art?",
+      "Do you not speak of\none who knows what is best in riding as a good rider?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And in a similar way you speak of a good boxer or a good\nflute-player or a good performer in any other art?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But is it necessary that the man who is clever in any of these\narts should be wise also in general? Or is there a difference between\nthe clever artist and the wise man?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "All the difference in the world."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And what sort of a state do you think that would be which was\ncomposed of good archers and flute-players and athletes and masters in\nother arts, and besides them of those others about whom we spoke, who\nknew how to go to war and how to kill,",
+      "as well as of orators puffed\nup with political pride, but in which not one of them all had this\nknowledge of the best, and there was no one who could tell when it was\nbetter to apply any of these arts or in regard to whom?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I should call such a state bad, Socrates."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You certainly would when you saw each of them rivalling the\nother and esteeming that of the greatest importance in the state,\n\n'Wherein he himself most excelled.' (Euripides, Antiope.",
+      ") --I mean that\nwhich was best in any art, while he was entirely ignorant of what was\nbest for himself and for the state, because, as I think, he trusts to\nopinion which is devoid of intelligence.",
+      "In such a case should we not\nbe right if we said that the state would be full of anarchy and\nlawlessness?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Decidedly."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But ought we not then, think you, either to fancy that we know\nor really to know, what we confidently propose to do or say?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And if a person does that which he knows or supposes that he\nknows, and the result is beneficial, he will act advantageously both for\nhimself and for the state?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "True."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And if he do the contrary, both he and the state will suffer?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Yes."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Well, and are you of the same mind, as before?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I am."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But were you not saying that you would call the many unwise\nand the few wise?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I was."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And have we not come back to our old assertion that the many\nfail to obtain the best because they trust to opinion which is devoid of\nintelligence?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "That is the case."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "It is good, then, for the many, if they particularly desire to\ndo that which they know or suppose that they know, neither to know nor\nto suppose that they know, in cases where if they carry out their ideas\nin action they will be losers rather than gainers?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "What you say is very true."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Do you not see that I was really speaking the truth when I\naffirmed that the possession of any other kind of knowledge was more\nlikely to injure than to benefit the possessor, unless he had also the\nknowledge of the best?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I do now, if I did not before, Socrates."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "The state or the soul, therefore, which wishes to have a\nright existence must hold firmly to this knowledge, just as the sick\nman clings to the physician, or the passenger depends for safety on the\npilot.",
+      "And if the soul does not set sail until she have obtained this\nshe will be all the safer in the voyage through life.",
+      "But when she\nrushes in pursuit of wealth or bodily strength or anything else, not\nhaving the knowledge of the best, so much the more is she likely to\nmeet with misfortune. And he who has the love of learning (Or, reading\npolumatheian, 'abundant learning.",
+      "'), and is skilful in many arts, and\ndoes not possess the knowledge of the best, but is under some other\nguidance, will make, as he deserves, a sorry voyage:--he will, I\nbelieve, hurry through the brief space of human life, pilotless in\nmid-ocean,",
+      "and the words will apply to him in which the poet blamed his\nenemy:--\n\n'...Full many a thing he knew; But knew them all badly.' (A fragment\nfrom the pseudo-Homeric poem, 'Margites.')"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "How in the world, Socrates, do the words of the poet apply\nto him? They seem to me to have no bearing on the point whatever."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Quite the contrary, my sweet friend: only the poet is talking\nin riddles after the fashion of his tribe. For all poetry has by nature\nan enigmatical character, and it is by no means everybody who can\ninterpret it.",
+      "And if, moreover, the spirit of poetry happen to seize on\na man who is of a begrudging temper and does not care to manifest his\nwisdom but keeps it to himself as far as he can, it does indeed require\nan almost superhuman wisdom to discover what the poet would be at.",
+      "You\nsurely do not suppose that Homer, the wisest and most divine of poets,\nwas unaware of the impossibility of knowing a thing badly: for it was\nno less a person than he who said of Margites that 'he knew many\nthings, but knew them all badly.",
+      "' The solution of the riddle is this, I\nimagine:--By 'badly' Homer meant 'bad' and 'knew' stands for 'to know.'\nPut the words together;--the metre will suffer, but the poet's meaning\nis clear;--'Margites knew all these things, but it was bad for him\nto know them.",
+      "' And, obviously, if it was bad for him to know so many\nthings, he must have been a good-for-nothing, unless the argument has\nplayed us false."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "But I do not think that it has, Socrates: at least, if the\nargument is fallacious, it would be difficult for me to find another\nwhich I could trust."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And you are right in thinking so."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Well, that is my opinion."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "But tell me, by Heaven:--you must see now the nature and\ngreatness of the difficulty in which you, like others, have your part.",
+      "For you change about in all directions, and never come to rest anywhere:\nwhat you once most strongly inclined to suppose, you put aside again and\nquite alter your mind.",
+      "If the God to whose shrine you are going should\nappear at this moment, and ask before you made your prayer, 'Whether you\nwould desire to have one of the things which we mentioned at first, or\nwhether he should leave you to make your own request:'--what in\neither case, think you,",
+      "would be the best way to take advantage of the\nopportunity?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Indeed, Socrates, I could not answer you without\nconsideration.",
+      "It seems to me to be a wild thing (The Homeric word\nmargos is said to be here employed in allusion to the quotation from the\n'Margites' which Socrates has just made; but it is not used in the\nsense which it has in Homer.",
+      ") to make such a request; a man must be very\ncareful lest he pray for evil under the idea that he is asking for good,\nwhen shortly after he may have to recall his prayer, and, as you were\nsaying, demand the opposite of what he at first requested."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And was not the poet whose words I originally quoted wiser\nthan we are, when he bade us (pray God) to defend us from evil even\nthough we asked for it?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I believe that you are right."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "The Lacedaemonians, too, whether from admiration of the poet\nor because they have discovered the idea for themselves, are wont to\noffer the prayer alike in public and private,",
+      "that the Gods will give\nunto them the beautiful as well as the good:--no one is likely to hear\nthem make any further petition.",
+      "And yet up to the present time they have\nnot been less fortunate than other men; or if they have sometimes met\nwith misfortune, the fault has not been due to their prayer.",
+      "For surely,\nas I conceive, the Gods have power either to grant our requests, or to\nsend us the contrary of what we ask.\n\nAnd now I will relate to you a story which I have heard from certain of\nour elders.",
+      "It chanced that when the Athenians and Lacedaemonians were\nat war, our city lost every battle by land and sea and never gained a\nvictory. The Athenians being annoyed and perplexed how to find a remedy\nfor their troubles, decided to send and enquire at the shrine of Ammon.",
+      "Their envoys were also to ask, 'Why the Gods always granted the victory\nto the Lacedaemonians?",
+      "' 'We,' (they were to say,) 'offer them more and\nfiner sacrifices than any other Hellenic state, and adorn their temples\nwith gifts, as nobody else does;",
+      "moreover, we make the most solemn and\ncostly processions to them every year, and spend more money in their\nservice than all the rest of the Hellenes put together.",
+      "But the\nLacedaemonians take no thought of such matters, and pay so little\nrespect to the Gods that they have a habit of sacrificing blemished\nanimals to them, and in various ways are less zealous than we are,\nalthough their wealth is quite equal to ours.",
+      "' When they had thus\nspoken, and had made their request to know what remedy they could\nfind against the evils which troubled them, the prophet made no direct\nanswer,--clearly because he was not allowed by the God to do so;",
+      "--but he\nsummoned them to him and said: 'Thus saith Ammon to the Athenians: \"The\nsilent worship of the Lacedaemonians pleaseth me better than all the\nofferings of the other Hellenes.\"' Such were the words of the God, and\nnothing more.",
+      "He seems to have meant by 'silent worship' the prayer\nof the Lacedaemonians, which is indeed widely different from the usual\nrequests of the Hellenes.",
+      "For they either bring to the altar bulls with\ngilded horns or make offerings to the Gods, and beg at random for what\nthey need, good or bad. When, therefore, the Gods hear them using words\nof ill omen they reject these costly processions and sacrifices of\ntheirs.",
+      "And we ought, I think, to be very careful and consider well what\nwe should say and what leave unsaid. Homer, too, will furnish us\nwith similar stories.",
+      "For he tells us how the Trojans in making their\nencampment,\n\n'Offered up whole hecatombs to the immortals,'\n\nand how the 'sweet savour' was borne 'to the heavens by the winds;\n\n     'But the blessed Gods were averse and received it not.",
+      "For exceedingly did they hate the holy Ilium,\n     Both Priam and the people of the spear-skilled king.'\n\nSo that it was in vain for them to sacrifice and offer gifts, seeing\nthat they were hateful to the Gods, who are not, like vile usurers, to\nbe gained over by bribes.",
+      "And it is foolish for us to boast that we are\nsuperior to the Lacedaemonians by reason of our much worship.",
+      "The idea\nis inconceivable that the Gods have regard, not to the justice and\npurity of our souls, but to costly processions and sacrifices, which men\nmay celebrate year after year,",
+      "although they have committed innumerable\ncrimes against the Gods or against their fellow-men or the state. For\nthe Gods, as Ammon and his prophet declare, are no receivers of gifts,\nand they scorn such unworthy service.",
+      "Wherefore also it would seem that\nwisdom and justice are especially honoured both by the Gods and by men\nof sense; and they are the wisest and most just who know how to speak\nand act towards Gods and men. But I should like to hear what your\nopinion is about these matters."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I agree, Socrates, with you and with the God, whom, indeed,\nit would be unbecoming for me to oppose."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "Do you not remember saying that you were in great perplexity,\nlest perchance you should ask for evil, supposing that you were asking\nfor good?"
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "I do."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You see, then, that there is a risk in your approaching the\nGod in prayer, lest haply he should refuse your sacrifice when he hears\nthe blasphemy which you utter, and make you partake of other evils\nas well.",
+      "The wisest plan, therefore, seems to me that you should keep\nsilence; for your 'highmindedness'--to use the mildest term which men\napply to folly--will most likely prevent you from using the prayer of\nthe Lacedaemonians.",
+      "You had better wait until we find out how we should\nbehave towards the Gods and towards men."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "And how long must I wait, Socrates, and who will be my\nteacher? I should be very glad to see the man."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "It is he who takes an especial interest in you. But first of\nall, I think, the darkness must be taken away in which your soul is now\nenveloped, just as Athene in Homer removes the mist from the eyes of\nDiomede that\n\n'He may distinguish between God and mortal man.",
+      "'\n\nAfterwards the means may be given to you whereby you may distinguish\nbetween good and evil. At present, I fear, this is beyond your power."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "Only let my instructor take away the impediment, whether it\npleases him to call it mist or anything else! I care not who he is; but\nI am resolved to disobey none of his commands, if I am likely to be the\nbetter for them."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "And surely he has a wondrous care for you."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "It seems to be altogether advisable to put off the sacrifice\nuntil he is found."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "You are right: that will be safer than running such a\ntremendous risk."
+    ]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": [
+      "But how shall we manage, Socrates?",
+      "--At any rate I will set\nthis crown of mine upon your head, as you have given me such excellent\nadvice, and to the Gods we will offer crowns and perform the other\ncustomary rites when I see that day approaching: nor will it be long\nhence, if they so will."
+    ]
+  },
+  {
+    "author": "SOCRATES",
+    "text": [
+      "I accept your gift, and shall be ready and willing to receive\nwhatever else you may proffer.",
+      "Euripides makes Creon say in the play,\nwhen he beholds Teiresias with his crown and hears that he has gained it\nby his skill as the first-fruits of the spoil:--\n\n'An auspicious omen I deem thy victor's wreath: For well thou knowest\nthat wave and storm oppress us.",
+      "'\n\nAnd so I count your gift to be a token of good-fortune; for I am in no\nless stress than Creon, and would fain carry off the victory over your\nlovers.\n"
+    ]
+  }
+]
