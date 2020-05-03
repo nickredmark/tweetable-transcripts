@@ -10,7 +10,7 @@ const levels = [
   /[,;\.?$ \n]/,
 ];
 
-const shorten = (text) => {
+const split = (text) => {
   const parts = [];
 
   while (text.length) {
@@ -38,7 +38,11 @@ const shorten = (text) => {
   return parts;
 };
 
-const dialogue = "jimrutt8";
+const dialogue = "alcibiades";
+
+const MAP = {
+  Alcibiades: "@SmartAlcibiades",
+};
 
 const raw = readFileSync(`./data/${dialogue}.txt`, "utf8");
 
@@ -48,11 +52,18 @@ const lines = raw
   .filter(Boolean);
 
 const messages = [];
-for (const line of lines) {
-  const match = /^(\w[\w ]*): ?(.+)$/.exec(line);
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  const match = /^(\w[\w ]*): ?((.|\n)+)$/.exec(line);
+  let text = match[2]
+    .replace(/Socrates/g, "@OWiseSocrates")
+    .replace(/Alcibiades/g, "@SmartAlcibiades");
+  if (i === 0) {
+    text = `@SmartAlcibiades ${text}`;
+  }
   messages.push({
     author: match[1],
-    text: shorten(match[2]),
+    text: split(text),
   });
 }
 

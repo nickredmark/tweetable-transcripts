@@ -4,13 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "env-cmd node tweet"
+    "letsdoit": "env-cmd node letsdoit",
+    "process": "env-cmd node process",
+    "tweet": "env-cmd node tweet",
+    "auth": "env-cmd node auth"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "env-cmd": "^10.1.0",
-    "twit": "^2.2.11"
+    "node-fetch": "^2.6.0",
+    "node-twitter-api": "^1.8.0"
   }
 }

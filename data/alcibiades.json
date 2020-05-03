@@ -2,7 +2,7 @@
   {
     "author": "SOCRATES",
     "text": [
-      "I dare say that you may be surprised to find, O son of\nCleinias, that I, who am your first lover, not having spoken to you\nfor many years, when the rest of the world were wearying you with their\nattentions, am the last of your lovers who still speaks to you.",
+      "@SmartAlcibiades I dare say that you may be surprised to find, O son of\nCleinias, that I, who am your first lover, not having spoken to you\nfor many years, when the rest of the world were wearying you with their\nattentions, am the last of your lovers who still speaks to you.",
       "The\ncause of my silence has been that I was hindered by a power more\nthan human, of which I will some day explain to you the nature; this\nimpediment has now been removed; I therefore here present myself before\nyou, and I greatly hope that no similar hindrance will again occur.",
       "Meanwhile, I have observed that your pride has been too much for the\npride of your admirers; they were numerous and high-spirited, but they\nhave all run away, overpowered by your superior force of character; not\none of them remains.",
       "And I want you to understand the reason why you\nhave been too much for them. You think that you have no need of them\nor of any other man, for you have great possessions and lack nothing,\nbeginning with the body, and ending with the soul.",
@@ -17,7 +17,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Perhaps, Socrates, you are not aware that I was just going\nto ask you the very same question--What do you want? And what is your\nmotive in annoying me, and always, wherever I am, making a point of\ncoming? I do really wonder what you mean, and should\ngreatly like to know."
+      "Perhaps, @OWiseSocrates, you are not aware that I was just going\nto ask you the very same question--What do you want? And what is your\nmotive in annoying me, and always, wherever I am, making a point of\ncoming? I do really wonder what you mean, and should\ngreatly like to know."
     ]
   },
   {
@@ -28,9 +28,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly, let me hear."
-    ]
+    "text": ["Certainly, let me hear."]
   },
   {
     "author": "SOCRATES",
@@ -40,22 +38,20 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Proceed, my good man, and I will listen."
-    ]
+    "text": ["Proceed, my good man, and I will listen."]
   },
   {
     "author": "SOCRATES",
     "text": [
       "I will proceed;",
-      "and, although no lover likes to speak with\none who has no feeling of love in him , I will make an\neffort, and tell you what I meant: My love, Alcibiades, which I hardly\nlike to confess, would long ago have passed away, as I flatter myself,\nif I saw you loving your good things,",
-      "or thinking that you ought to\npass life in the enjoyment of them. But I shall reveal other thoughts\nof yours, which you keep to yourself; whereby you will know that I have\nalways had my eye on you.",
-      "Suppose that at this moment some God came to\nyou and said: Alcibiades, will you live as you are, or die in an instant\nif you are forbidden to make any further acquisition?--I verily believe\nthat you would choose death.",
+      "and, although no lover likes to speak with\none who has no feeling of love in him , I will make an\neffort, and tell you what I meant: My love, @SmartAlcibiades, which I hardly\nlike to confess, would long ago have passed away, as I flatter myself,",
+      "if I saw you loving your good things, or thinking that you ought to\npass life in the enjoyment of them. But I shall reveal other thoughts\nof yours, which you keep to yourself; whereby you will know that I have\nalways had my eye on you.",
+      "Suppose that at this moment some God came to\nyou and said: @SmartAlcibiades, will you live as you are, or die in an instant\nif you are forbidden to make any further acquisition?--I verily believe\nthat you would choose death.",
       "And I will tell you the hope in which you\nare at present living: Before many days have elapsed, you think that you\nwill come before the Athenian assembly, and will prove to them that\nyou are more worthy of honour than Pericles, or any other man that ever\nlived,",
       "and having proved this, you will have the greatest power in the\nstate. When you have gained the greatest power among us, you will go\non to other Hellenic states, and not only to Hellenes, but to all the\nbarbarians who inhabit the same continent with us.",
       "And if the God were\nthen to say to you again: Here in Europe is to be your seat of empire,\nand you must not cross over into Asia or meddle with Asiatic affairs, I\ndo not believe that you would choose to live upon these terms;",
       "but the\nworld, as I may say, must be filled with your power and name--no man\nless than Cyrus and Xerxes is of any account with you.",
-      "Such I know to be\nyour hopes--I am not guessing only--and very likely you, who know that\nI am speaking the truth, will reply, Well, Socrates, but what have\nmy hopes to do with the explanation which you promised of your\nunwillingness to leave me?",
+      "Such I know to be\nyour hopes--I am not guessing only--and very likely you, who know that\nI am speaking the truth, will reply, Well, @OWiseSocrates, but what have\nmy hopes to do with the explanation which you promised of your\nunwillingness to leave me?",
       "And that is what I am now going to tell you,\nsweet son of Cleinias and Dinomache.",
       "The explanation is, that all these\ndesigns of yours cannot be accomplished by you without my help; so great\nis the power which I believe myself to have over you and your concerns;",
       "and this I conceive to be the reason why the God has hitherto forbidden\nme to converse with you, and I have been long expecting his permission.",
@@ -67,7 +63,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Your silence, Socrates, was always a surprise to me. I never\ncould understand why you followed me about, and now that you have begun\nto speak again, I am still more amazed.",
+      "Your silence, @OWiseSocrates, was always a surprise to me. I never\ncould understand why you followed me about, and now that you have begun\nto speak again, I am still more amazed.",
       "Whether I think all this or not,\nis a matter about which you seem to have already made up your mind, and\ntherefore my denial will have no effect upon you.",
       "But granting, if\nI must, that you have perfectly divined my purposes, why is your\nassistance necessary to the attainment of them? Can you tell me why?"
     ]
@@ -80,39 +76,27 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, if the favour which you mean be not a troublesome one."
-    ]
+    "text": ["Yes, if the favour which you mean be not a troublesome one."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Will you be troubled at having questions to answer?"
-    ]
+    "text": ["Will you be troubled at having questions to answer?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Not at all."
-    ]
+    "text": ["Not at all."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then please to answer."
-    ]
+    "text": ["Then please to answer."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Ask me."
-    ]
+    "text": ["Ask me."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Have you not the intention which I attribute to you?"
-    ]
+    "text": ["Have you not the intention which I attribute to you?"]
   },
   {
     "author": "ALCIBIADES",
@@ -124,7 +108,7 @@
     "author": "SOCRATES",
     "text": [
       "You do, then, mean, as I was saying, to come forward in\na little while in the character of an adviser of the Athenians?",
-      "And\nsuppose that when you are ascending the bema, I pull you by the sleeve\nand say, Alcibiades, you are getting up to advise the Athenians--do you\nknow the matter about which they are going to deliberate, better than\nthey?--How would you answer?"
+      "And\nsuppose that when you are ascending the bema, I pull you by the sleeve\nand say, @SmartAlcibiades, you are getting up to advise the Athenians--do you\nknow the matter about which they are going to deliberate, better than\nthey?--How would you answer?"
     ]
   },
   {
@@ -135,15 +119,11 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then you are a good adviser about the things which you know?"
-    ]
+    "text": ["Then you are a good adviser about the things which you know?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -153,9 +133,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is all."
-    ]
+    "text": ["That is all."]
   },
   {
     "author": "SOCRATES",
@@ -165,9 +143,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should not."
-    ]
+    "text": ["I should not."]
   },
   {
     "author": "SOCRATES",
@@ -177,9 +153,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -189,9 +163,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -202,9 +174,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, that was the whole of my schooling."
-    ]
+    "text": ["Yes, that was the whole of my schooling."]
   },
   {
     "author": "SOCRATES",
@@ -214,21 +184,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No, indeed."
-    ]
+    "text": ["No, indeed."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Or about the touch of the lyre?"
-    ]
+    "text": ["Or about the touch of the lyre?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -238,9 +202,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Hardly."
-    ]
+    "text": ["Hardly."]
   },
   {
     "author": "SOCRATES",
@@ -250,45 +212,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "For the builder will advise better than you will about that?"
-    ]
+    "text": ["For the builder will advise better than you will about that?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He will."
-    ]
+    "text": ["He will."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nor about divination?"
-    ]
+    "text": ["Nor about divination?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "About that again the diviner will advise better than you will?"
-    ]
+    "text": ["About that again the diviner will advise better than you will?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -298,9 +246,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -310,9 +256,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Assuredly."
-    ]
+    "text": ["Assuredly."]
   },
   {
     "author": "SOCRATES",
@@ -322,9 +266,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Of course."
-    ]
+    "text": ["Of course."]
   },
   {
     "author": "SOCRATES",
@@ -334,9 +276,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "About their own concerns, Socrates."
-    ]
+    "text": ["About their own concerns, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -346,9 +286,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No, I should not advise them about that."
-    ]
+    "text": ["No, I should not advise them about that."]
   },
   {
     "author": "SOCRATES",
@@ -358,20 +296,16 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It is."
-    ]
+    "text": ["It is."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then about what concerns of theirs will you advise them?"
-    ]
+    "text": ["Then about what concerns of theirs will you advise them?"]
   },
   {
     "author": "ALCIBIADES",
     "text": [
-      "About war, Socrates, or about peace, or about any other\nconcerns of the state."
+      "About war, @OWiseSocrates, or about peace, or about any other\nconcerns of the state."
     ]
   },
   {
@@ -382,9 +316,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -394,33 +326,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And when it is better?"
-    ]
+    "text": ["And when it is better?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And for as long a time as is better?"
-    ]
+    "text": ["And for as long a time as is better?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -430,9 +352,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly, the master of gymnastics."
-    ]
+    "text": ["Clearly, the master of gymnastics."]
   },
   {
     "author": "SOCRATES",
@@ -442,33 +362,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And as much as is best?"
-    ]
+    "text": ["And as much as is best?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And at such times as are best?"
-    ]
+    "text": ["And at such times as are best?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -478,33 +388,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "When it is well to do so?"
-    ]
+    "text": ["When it is well to do so?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And as much as is well?"
-    ]
+    "text": ["And as much as is well?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Just so."
-    ]
+    "text": ["Just so."]
   },
   {
     "author": "SOCRATES",
@@ -514,9 +414,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do not understand you."
-    ]
+    "text": ["I do not understand you."]
   },
   {
     "author": "SOCRATES",
@@ -526,45 +424,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And was not the art of which I spoke gymnastic?"
-    ]
+    "text": ["And was not the art of which I spoke gymnastic?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And I called the excellence in wrestling gymnastic?"
-    ]
+    "text": ["And I called the excellence in wrestling gymnastic?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You did."
-    ]
+    "text": ["You did."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And I was right?"
-    ]
+    "text": ["And I was right?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I think that you were."
-    ]
+    "text": ["I think that you were."]
   },
   {
     "author": "SOCRATES",
@@ -574,9 +458,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Indeed I cannot."
-    ]
+    "text": ["Indeed I cannot."]
   },
   {
     "author": "SOCRATES",
@@ -586,9 +468,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The Muses do you mean, Socrates?"
-    ]
+    "text": ["The Muses do you mean, @OWiseSocrates?"]
   },
   {
     "author": "SOCRATES",
@@ -598,9 +478,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose that you mean music."
-    ]
+    "text": ["I suppose that you mean music."]
   },
   {
     "author": "SOCRATES",
@@ -610,9 +488,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "To be musical, I suppose."
-    ]
+    "text": ["To be musical, I suppose."]
   },
   {
     "author": "SOCRATES",
@@ -622,23 +498,19 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "But I really cannot tell you."
-    ]
+    "text": ["But I really cannot tell you."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "But if you were offering advice to another and said to\nhim--This food is better than that, at this time and in this quantity,\nand he said to you--What do you mean, Alcibiades, by the word\n'better'?",
+      "But if you were offering advice to another and said to\nhim--This food is better than that, at this time and in this quantity,\nand he said to you--What do you mean, @SmartAlcibiades, by the word\n'better'?",
       "you would have no difficulty in replying that you meant 'more\nwholesome,' although you do not profess to be a physician: and when the\nsubject is one of which you profess to have knowledge, and about which\nyou are ready to get up and advise as if you knew, are you not ashamed,",
       "when you are asked, not to be able to answer the question? Is it not\ndisgraceful?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very."
-    ]
+    "text": ["Very."]
   },
   {
     "author": "SOCRATES",
@@ -648,9 +520,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I am thinking, and I cannot tell."
-    ]
+    "text": ["I am thinking, and I cannot tell."]
   },
   {
     "author": "SOCRATES",
@@ -673,14 +543,12 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Do you mean by 'how,' Socrates, whether we suffered these\nthings justly or unjustly?"
+      "Do you mean by 'how,' @OWiseSocrates, whether we suffered these\nthings justly or unjustly?"
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Exactly."
-    ]
+    "text": ["Exactly."]
   },
   {
     "author": "ALCIBIADES",
@@ -702,27 +570,19 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "He would not go to war, because it would be unlawful?"
-    ]
+    "text": ["He would not go to war, because it would be unlawful?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Neither lawful nor honourable."
-    ]
+    "text": ["Neither lawful nor honourable."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then you, too, would address them on principles of justice?"
-    ]
+    "text": ["Then you, too, would address them on principles of justice?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -732,22 +592,18 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "But how is this, friend Alcibiades? Have you forgotten that\nyou do not know this, or have you been to the schoolmaster without my\nknowledge, and has he taught you to discern the just from the unjust?\nWho is he?",
+      "But how is this, friend @SmartAlcibiades? Have you forgotten that\nyou do not know this, or have you been to the schoolmaster without my\nknowledge, and has he taught you to discern the just from the unjust?\nWho is he?",
       "I wish you would tell me, that I may go and learn of him--you\nshall introduce me."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You are mocking, Socrates."
-    ]
+    "text": ["You are mocking, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -763,39 +619,27 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Yes; if you have discovered them."
-    ]
+    "text": ["Yes; if you have discovered them."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "But do you not think that I could discover them?"
-    ]
+    "text": ["But do you not think that I could discover them?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "I am sure that you might, if you enquired about them."
-    ]
+    "text": ["I am sure that you might, if you enquired about them."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "And do you not think that I would enquire?"
-    ]
+    "text": ["And do you not think that I would enquire?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Yes; if you thought that you did not know them."
-    ]
+    "text": ["Yes; if you thought that you did not know them."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "And was there not a time when I did so think?"
-    ]
+    "text": ["And was there not a time when I did so think?"]
   },
   {
     "author": "SOCRATES",
@@ -806,9 +650,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Well, I thought that I knew."
-    ]
+    "text": ["Well, I thought that I knew."]
   },
   {
     "author": "SOCRATES",
@@ -818,33 +660,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I did."
-    ]
+    "text": ["I did."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And more than four years ago you were a child--were you not?"
-    ]
+    "text": ["And more than four years ago you were a child--were you not?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And then I am quite sure that you thought you knew."
-    ]
+    "text": ["And then I am quite sure that you thought you knew."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Why are you so sure?"
-    ]
+    "text": ["Why are you so sure?"]
   },
   {
     "author": "SOCRATES",
@@ -855,9 +687,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "But what was I to do, Socrates, when anybody cheated me?"
-    ]
+    "text": ["But what was I to do, @OWiseSocrates, when anybody cheated me?"]
   },
   {
     "author": "SOCRATES",
@@ -867,9 +697,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "To be sure I knew; I was quite aware that I was being\ncheated."
-    ]
+    "text": ["To be sure I knew; I was quite aware that I was being\ncheated."]
   },
   {
     "author": "SOCRATES",
@@ -879,9 +707,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly; and I did know then."
-    ]
+    "text": ["Certainly; and I did know then."]
   },
   {
     "author": "SOCRATES",
@@ -891,9 +717,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -903,21 +727,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Really, Socrates, I cannot say."
-    ]
+    "text": ["Really, @OWiseSocrates, I cannot say."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then you did not learn them by discovering them?"
-    ]
+    "text": ["Then you did not learn them by discovering them?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly not."
-    ]
+    "text": ["Clearly not."]
   },
   {
     "author": "SOCRATES",
@@ -933,15 +751,11 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "So you said before, and I must again ask, of whom? Do tell me."
-    ]
+    "text": ["So you said before, and I must again ask, of whom? Do tell me."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Of the many."
-    ]
+    "text": ["Of the many."]
   },
   {
     "author": "SOCRATES",
@@ -951,9 +765,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Why, are they not able to teach?"
-    ]
+    "text": ["Why, are they not able to teach?"]
   },
   {
     "author": "SOCRATES",
@@ -963,9 +775,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -981,9 +791,7 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What things?"
-    ]
+    "text": ["What things?"]
   },
   {
     "author": "ALCIBIADES",
@@ -999,9 +807,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Why is that?"
-    ]
+    "text": ["Why is that?"]
   },
   {
     "author": "SOCRATES",
@@ -1011,9 +817,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What qualities?"
-    ]
+    "text": ["What qualities?"]
   },
   {
     "author": "SOCRATES",
@@ -1023,21 +827,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And if they know, they must agree together and not differ?"
-    ]
+    "text": ["And if they know, they must agree together and not differ?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1047,21 +845,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then how can they teach them?"
-    ]
+    "text": ["Then how can they teach them?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "They cannot."
-    ]
+    "text": ["They cannot."]
   },
   {
     "author": "SOCRATES",
@@ -1072,9 +864,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1084,21 +874,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "They do not."
-    ]
+    "text": ["They do not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then they may be expected to be good teachers of these things?"
-    ]
+    "text": ["Then they may be expected to be good teachers of these things?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1108,9 +892,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -1120,9 +902,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -1132,9 +912,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1144,9 +922,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "They would not."
-    ]
+    "text": ["They would not."]
   },
   {
     "author": "SOCRATES",
@@ -1156,9 +932,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should."
-    ]
+    "text": ["I should."]
   },
   {
     "author": "SOCRATES",
@@ -1168,21 +942,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Assuredly not, Socrates."
-    ]
+    "text": ["Assuredly not, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "There is no subject about which they are more at variance?"
-    ]
+    "text": ["There is no subject about which they are more at variance?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "None."
-    ]
+    "text": ["None."]
   },
   {
     "author": "SOCRATES",
@@ -1192,9 +960,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No indeed."
-    ]
+    "text": ["No indeed."]
   },
   {
     "author": "SOCRATES",
@@ -1204,21 +970,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "To be sure, Socrates."
-    ]
+    "text": ["To be sure, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "A difference of just and unjust is the argument of those\npoems?"
-    ]
+    "text": ["A difference of just and unjust is the argument of those\npoems?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1228,9 +988,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -1240,9 +998,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -1252,9 +1008,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly not."
-    ]
+    "text": ["Clearly not."]
   },
   {
     "author": "SOCRATES",
@@ -1264,9 +1018,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -1276,27 +1028,19 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "From what you say, I suppose not."
-    ]
+    "text": ["From what you say, I suppose not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "See, again, how inaccurately you speak, Alcibiades!"
-    ]
+    "text": ["See, again, how inaccurately you speak, @SmartAlcibiades!"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "In what respect?"
-    ]
+    "text": ["In what respect?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "In saying that I say so."
-    ]
+    "text": ["In saying that I say so."]
   },
   {
     "author": "ALCIBIADES",
@@ -1306,27 +1050,19 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "No; I did not."
-    ]
+    "text": ["No; I did not."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Did I, then?"
-    ]
+    "text": ["Did I, then?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "How was that?"
-    ]
+    "text": ["How was that?"]
   },
   {
     "author": "SOCRATES",
@@ -1336,45 +1072,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should."
-    ]
+    "text": ["I should."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And by how much greater?"
-    ]
+    "text": ["And by how much greater?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "By one."
-    ]
+    "text": ["By one."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Which of us now says that two is more than one?"
-    ]
+    "text": ["Which of us now says that two is more than one?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do."
-    ]
+    "text": ["I do."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Did not I ask, and you answer the question?"
-    ]
+    "text": ["Did not I ask, and you answer the question?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1384,21 +1106,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I am."
-    ]
+    "text": ["I am."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "Or suppose that I ask and you tell me the letters which make\nup the name Socrates, which of us is the speaker?"
+      "Or suppose that I ask and you tell me the letters which make\nup the name @OWiseSocrates, which of us is the speaker?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I am."
-    ]
+    "text": ["I am."]
   },
   {
     "author": "SOCRATES",
@@ -1408,69 +1126,53 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should say, Socrates, that the answerer was the speaker."
-    ]
+    "text": ["I should say, @OWiseSocrates, that the answerer was the speaker."]
+  },
+  {
+    "author": "SOCRATES",
+    "text": ["And have I not been the questioner all through?"]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": ["Yes."]
+  },
+  {
+    "author": "SOCRATES",
+    "text": ["And you the answerer?"]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": ["Just so."]
+  },
+  {
+    "author": "SOCRATES",
+    "text": ["Which of us, then, was the speaker?"]
+  },
+  {
+    "author": "ALCIBIADES",
+    "text": ["The inference is, @OWiseSocrates, that I was the speaker."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And have I not been the questioner all through?"
+      "Did not some one say that @SmartAlcibiades, the fair son of\nCleinias, not understanding about just and unjust, but thinking that he\ndid understand, was going to the assembly to advise the Athenians about\nwhat he did not know? Was not that said?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And you the answerer?"
-    ]
-  },
-  {
-    "author": "ALCIBIADES",
-    "text": [
-      "Just so."
-    ]
-  },
-  {
-    "author": "SOCRATES",
-    "text": [
-      "Which of us, then, was the speaker?"
-    ]
-  },
-  {
-    "author": "ALCIBIADES",
-    "text": [
-      "The inference is, Socrates, that I was the speaker."
-    ]
-  },
-  {
-    "author": "SOCRATES",
-    "text": [
-      "Did not some one say that Alcibiades, the fair son of\nCleinias, not understanding about just and unjust, but thinking that he\ndid understand, was going to the assembly to advise the Athenians about\nwhat he did not know? Was not that said?"
-    ]
-  },
-  {
-    "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
-  },
-  {
-    "author": "SOCRATES",
-    "text": [
-      "Then, Alcibiades, the result may be expressed in the language\nof Euripides. I think that you have heard all this 'from yourself, and\nnot from me'; nor did I say this, which you erroneously attribute to me,\nbut you yourself, and what you said was very true.",
+      "Then, @SmartAlcibiades, the result may be expressed in the language\nof Euripides. I think that you have heard all this 'from yourself, and\nnot from me'; nor did I say this, which you erroneously attribute to me,\nbut you yourself, and what you said was very true.",
       "For indeed, my dear\nfellow, the design which you meditate of teaching what you do not know,\nand have not taken any pains to learn, is downright insanity."
     ]
   },
   {
     "author": "ALCIBIADES",
     "text": [
-      "But, Socrates, I think that the Athenians and the rest of\nthe Hellenes do not often advise as to the more just or unjust; for they\nsee no difficulty in them, and therefore they leave them, and consider\nwhich course of action will be most expedient;",
+      "But, @OWiseSocrates, I think that the Athenians and the rest of\nthe Hellenes do not often advise as to the more just or unjust; for they\nsee no difficulty in them, and therefore they leave them, and consider\nwhich course of action will be most expedient;",
       "for there is a difference\nbetween justice and expediency. Many persons have done great wrong and\nprofited by their injustice; others have done rightly and come to no\ngood."
     ]
   },
@@ -1483,7 +1185,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Why not, Socrates?--But I am not going to be asked again\nfrom whom I learned, or when I made the discovery."
+      "Why not, @OWiseSocrates?--But I am not going to be asked again\nfrom whom I learned, or when I made the discovery."
     ]
   },
   {
@@ -1499,7 +1201,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "But I am not certain, Socrates, whether I shall be able to\ndiscuss the matter with you."
+      "But I am not certain, @OWiseSocrates, whether I shall be able to\ndiscuss the matter with you."
     ]
   },
   {
@@ -1510,9 +1212,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1522,9 +1222,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1534,21 +1232,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And this will be he who knows number, or the arithmetician?"
-    ]
+    "text": ["And this will be he who knows number, or the arithmetician?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Quite true."
-    ]
+    "text": ["Quite true."]
   },
   {
     "author": "SOCRATES",
@@ -1558,9 +1250,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose so."
-    ]
+    "text": ["I suppose so."]
   },
   {
     "author": "SOCRATES",
@@ -1570,9 +1260,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1582,9 +1270,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose so."
-    ]
+    "text": ["I suppose so."]
   },
   {
     "author": "SOCRATES",
@@ -1594,9 +1280,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You take liberties, Socrates."
-    ]
+    "text": ["You take liberties, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -1606,45 +1290,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Proceed."
-    ]
+    "text": ["Proceed."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Answer my questions--that is all."
-    ]
+    "text": ["Answer my questions--that is all."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Nay, I should like you to be the speaker."
-    ]
+    "text": ["Nay, I should like you to be the speaker."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What, do you not wish to be persuaded?"
-    ]
+    "text": ["What, do you not wish to be persuaded?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly I do."
-    ]
+    "text": ["Certainly I do."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And can you be persuaded better than out of your own mouth?"
-    ]
+    "text": ["And can you be persuaded better than out of your own mouth?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I think not."
-    ]
+    "text": ["I think not."]
   },
   {
     "author": "SOCRATES",
@@ -1666,21 +1336,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And sometimes honourable and sometimes not?"
-    ]
+    "text": ["And sometimes honourable and sometimes not?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What do you mean?"
-    ]
+    "text": ["What do you mean?"]
   },
   {
     "author": "SOCRATES",
@@ -1690,21 +1354,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Never."
-    ]
+    "text": ["Never."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "All just things are honourable?"
-    ]
+    "text": ["All just things are honourable?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1715,20 +1373,16 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "I rather think, Socrates, that some honourable things are\nevil."
+      "I rather think, @OWiseSocrates, that some honourable things are\nevil."
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And are some dishonourable things good?"
-    ]
+    "text": ["And are some dishonourable things good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1738,9 +1392,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1750,21 +1402,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But evil in respect of death and wounds?"
-    ]
+    "text": ["But evil in respect of death and wounds?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1774,9 +1420,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -1786,9 +1430,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1798,9 +1440,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Good."
-    ]
+    "text": ["Good."]
   },
   {
     "author": "SOCRATES",
@@ -1810,9 +1450,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -1822,33 +1460,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I would rather die than be a coward."
-    ]
+    "text": ["I would rather die than be a coward."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then you think that cowardice is the worst of evils?"
-    ]
+    "text": ["Then you think that cowardice is the worst of evils?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do."
-    ]
+    "text": ["I do."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "As bad as death, I suppose?"
-    ]
+    "text": ["As bad as death, I suppose?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1858,9 +1486,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1870,9 +1496,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1882,9 +1506,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1894,21 +1516,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should."
-    ]
+    "text": ["I should."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But evil because of the death which ensues?"
-    ]
+    "text": ["But evil because of the death which ensues?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1918,9 +1534,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -1930,9 +1544,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -1942,9 +1554,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I believe that you are right, Socrates."
-    ]
+    "text": ["I believe that you are right, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -1954,9 +1564,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly not."
-    ]
+    "text": ["Clearly not."]
   },
   {
     "author": "SOCRATES",
@@ -1966,81 +1574,55 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And he who acts well is happy?"
-    ]
+    "text": ["And he who acts well is happy?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Of course."
-    ]
+    "text": ["Of course."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the happy are those who obtain good?"
-    ]
+    "text": ["And the happy are those who obtain good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And they obtain good by acting well and honourably?"
-    ]
+    "text": ["And they obtain good by acting well and honourably?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then acting well is a good?"
-    ]
+    "text": ["Then acting well is a good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And happiness is a good?"
-    ]
+    "text": ["And happiness is a good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then the good and the honourable are again identified."
-    ]
+    "text": ["Then the good and the honourable are again identified."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Manifestly."
-    ]
+    "text": ["Manifestly."]
   },
   {
     "author": "SOCRATES",
@@ -2050,27 +1632,19 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And is the good expedient or not?"
-    ]
+    "text": ["And is the good expedient or not?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Expedient."
-    ]
+    "text": ["Expedient."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Do you remember our admissions about the just?"
-    ]
+    "text": ["Do you remember our admissions about the just?"]
   },
   {
     "author": "ALCIBIADES",
@@ -2080,39 +1654,27 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the honourable is the good?"
-    ]
+    "text": ["And the honourable is the good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the good is expedient?"
-    ]
+    "text": ["And the good is expedient?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then, Alcibiades, the just is expedient?"
-    ]
+    "text": ["Then, @SmartAlcibiades, the just is expedient?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should infer so."
-    ]
+    "text": ["I should infer so."]
   },
   {
     "author": "SOCRATES",
@@ -2122,9 +1684,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I must acknowledge it to be true."
-    ]
+    "text": ["I must acknowledge it to be true."]
   },
   {
     "author": "SOCRATES",
@@ -2136,7 +1696,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "I solemnly declare, Socrates, that I do not know what I am\nsaying. Verily, I am in a strange state, for when you put questions to\nme I am of different minds in successive instants."
+      "I solemnly declare, @OWiseSocrates, that I do not know what I am\nsaying. Verily, I am in a strange state, for when you put questions to\nme I am of different minds in successive instants."
     ]
   },
   {
@@ -2147,9 +1707,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Indeed I am not."
-    ]
+    "text": ["Indeed I am not."]
   },
   {
     "author": "SOCRATES",
@@ -2171,9 +1729,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose so."
-    ]
+    "text": ["I suppose so."]
   },
   {
     "author": "SOCRATES",
@@ -2183,9 +1739,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very likely."
-    ]
+    "text": ["Very likely."]
   },
   {
     "author": "SOCRATES",
@@ -2195,9 +1749,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I agree."
-    ]
+    "text": ["I agree."]
   },
   {
     "author": "SOCRATES",
@@ -2207,45 +1759,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly he is."
-    ]
+    "text": ["Certainly he is."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And do you know how to ascend into heaven?"
-    ]
+    "text": ["And do you know how to ascend into heaven?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And in this case, too, is your judgment perplexed?"
-    ]
+    "text": ["And in this case, too, is your judgment perplexed?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Do you see the reason why, or shall I tell you?"
-    ]
+    "text": ["Do you see the reason why, or shall I tell you?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Tell me."
-    ]
+    "text": ["Tell me."]
   },
   {
     "author": "SOCRATES",
@@ -2255,9 +1793,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "There again; what do you mean?"
-    ]
+    "text": ["There again; what do you mean?"]
   },
   {
     "author": "SOCRATES",
@@ -2267,9 +1803,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -2279,9 +1813,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The latter."
-    ]
+    "text": ["The latter."]
   },
   {
     "author": "SOCRATES",
@@ -2291,9 +1823,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It would be the concern of the pilot."
-    ]
+    "text": ["It would be the concern of the pilot."]
   },
   {
     "author": "SOCRATES",
@@ -2303,9 +1833,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I imagine not."
-    ]
+    "text": ["I imagine not."]
   },
   {
     "author": "SOCRATES",
@@ -2315,9 +1843,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Once more, what do you mean?"
-    ]
+    "text": ["Once more, what do you mean?"]
   },
   {
     "author": "SOCRATES",
@@ -2327,9 +1853,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -2339,9 +1863,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -2351,9 +1873,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -2363,9 +1883,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -2375,9 +1893,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, only those."
-    ]
+    "text": ["Yes, only those."]
   },
   {
     "author": "SOCRATES",
@@ -2387,9 +1903,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -2399,9 +1913,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "By far."
-    ]
+    "text": ["By far."]
   },
   {
     "author": "SOCRATES",
@@ -2411,21 +1923,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "There cannot be."
-    ]
+    "text": ["There cannot be."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And these, as you were saying, are what perplex you?"
-    ]
+    "text": ["And these, as you were saying, are what perplex you?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -2435,21 +1941,19 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I fear that you are right."
-    ]
+    "text": ["I fear that you are right."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And now see what has happened to you, Alcibiades! I hardly\nlike to speak of your evil case, but as we are alone I will: My good\nfriend, you are wedded to ignorance of the most disgraceful kind, and of\nthis you are convicted, not by me,",
+      "And now see what has happened to you, @SmartAlcibiades! I hardly\nlike to speak of your evil case, but as we are alone I will: My good\nfriend, you are wedded to ignorance of the most disgraceful kind, and of\nthis you are convicted, not by me,",
       "but out of your own mouth and by\nyour own argument; wherefore also you rush into politics before you are\neducated. Neither is your case to be deemed singular. For I might say\nthe same of almost all our statesmen, with the exception, perhaps of\nyour guardian, Pericles."
     ]
   },
   {
     "author": "ALCIBIADES",
     "text": [
-      "Yes, Socrates; and Pericles is said not to have got his\nwisdom by the light of nature, but to have associated with several of\nthe philosophers; with Pythocleides, for example, and with Anaxagoras,\nand now in advanced life with Damon, in the hope of gaining wisdom."
+      "Yes, @OWiseSocrates; and Pericles is said not to have got his\nwisdom by the light of nature, but to have associated with several of\nthe philosophers; with Pythocleides, for example, and with Anaxagoras,\nand now in advanced life with Damon, in the hope of gaining wisdom."
     ]
   },
   {
@@ -2460,33 +1964,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And you, whom he taught, can do the same?"
-    ]
+    "text": ["And you, whom he taught, can do the same?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And in like manner the harper and gymnastic-master?"
-    ]
+    "text": ["And in like manner the harper and gymnastic-master?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -2496,9 +1990,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I agree."
-    ]
+    "text": ["I agree."]
   },
   {
     "author": "SOCRATES",
@@ -2509,20 +2001,16 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "But, Socrates, if the two sons of Pericles were simpletons,\nwhat has that to do with the matter?"
+      "But, @OWiseSocrates, if the two sons of Pericles were simpletons,\nwhat has that to do with the matter?"
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Well, but did he make your brother, Cleinias, wise?"
-    ]
+    "text": ["Well, but did he make your brother, Cleinias, wise?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Cleinias is a madman; there is no use in talking of him."
-    ]
+    "text": ["Cleinias is a madman; there is no use in talking of him."]
   },
   {
     "author": "SOCRATES",
@@ -2532,9 +2020,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I believe that I am to blame for not listening to him."
-    ]
+    "text": ["I believe that I am to blame for not listening to him."]
   },
   {
     "author": "SOCRATES",
@@ -2545,9 +2031,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I certainly never did hear of any one."
-    ]
+    "text": ["I certainly never did hear of any one."]
   },
   {
     "author": "SOCRATES",
@@ -2558,14 +2042,12 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "With your aid, Socrates, I will. And indeed, when I hear you\nspeak, the truth of what you are saying strikes home to me, and I\nagree with you, for our statesmen, all but a few, do appear to be quite\nuneducated."
+      "With your aid, @OWiseSocrates, I will. And indeed, when I hear you\nspeak, the truth of what you are saying strikes home to me, and I\nagree with you, for our statesmen, all but a few, do appear to be quite\nuneducated."
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What is the inference?"
-    ]
+    "text": ["What is the inference?"]
   },
   {
     "author": "ALCIBIADES",
@@ -2582,21 +2064,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What do you mean, Socrates; why do you say so?"
-    ]
+    "text": ["What do you mean, @OWiseSocrates; why do you say so?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "I am grieved when I think of our mutual love."
-    ]
+    "text": ["I am grieved when I think of our mutual love."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "At what?"
-    ]
+    "text": ["At what?"]
   },
   {
     "author": "SOCRATES",
@@ -2606,21 +2082,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Why, what others are there?"
-    ]
+    "text": ["Why, what others are there?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Is that a question which a magnanimous soul should ask?"
-    ]
+    "text": ["Is that a question which a magnanimous soul should ask?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Do you mean to say that the contest is not with these?"
-    ]
+    "text": ["Do you mean to say that the contest is not with these?"]
   },
   {
     "author": "SOCRATES",
@@ -2633,9 +2103,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That would certainly be my aim."
-    ]
+    "text": ["That would certainly be my aim."]
   },
   {
     "author": "SOCRATES",
@@ -2645,9 +2113,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Of whom are you speaking, Socrates?"
-    ]
+    "text": ["Of whom are you speaking, @OWiseSocrates?"]
   },
   {
     "author": "SOCRATES",
@@ -2657,9 +2123,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True enough."
-    ]
+    "text": ["True enough."]
   },
   {
     "author": "SOCRATES",
@@ -2669,9 +2133,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I believe that you are right."
-    ]
+    "text": ["I believe that you are right."]
   },
   {
     "author": "SOCRATES",
@@ -2685,20 +2147,16 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "There, I think, Socrates, that you are right; I do not\nsuppose, however, that the Spartan generals or the great king are really\ndifferent from anybody else."
+      "There, I think, @OWiseSocrates, that you are right; I do not\nsuppose, however, that the Spartan generals or the great king are really\ndifferent from anybody else."
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But, my dear friend, do consider what you are saying."
-    ]
+    "text": ["But, my dear friend, do consider what you are saying."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What am I to consider?"
-    ]
+    "text": ["What am I to consider?"]
   },
   {
     "author": "SOCRATES",
@@ -2708,9 +2166,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly, if I have such a fear of them."
-    ]
+    "text": ["Clearly, if I have such a fear of them."]
   },
   {
     "author": "SOCRATES",
@@ -2720,9 +2176,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No, I shall be greatly benefited."
-    ]
+    "text": ["No, I shall be greatly benefited."]
   },
   {
     "author": "SOCRATES",
@@ -2732,9 +2186,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -2744,9 +2196,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "How so?"
-    ]
+    "text": ["How so?"]
   },
   {
     "author": "SOCRATES",
@@ -2756,9 +2206,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly in noble races."
-    ]
+    "text": ["Clearly in noble races."]
   },
   {
     "author": "SOCRATES",
@@ -2768,9 +2216,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -2781,28 +2227,26 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Why, so does mine go back to Eurysaces, and he to Zeus!"
-    ]
+    "text": ["Why, so does mine go back to Eurysaces, and he to Zeus!"]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And mine, noble Alcibiades, to Daedalus, and he to Hephaestus,\nson of Zeus. But, for all that, we are far inferior to them.",
+      "And mine, noble @SmartAlcibiades, to Daedalus, and he to Hephaestus,\nson of Zeus. But, for all that, we are far inferior to them.",
       "For they\nare descended 'from Zeus,' through a line of kings--either kings\nof Argos and Lacedaemon, or kings of Persia, a country which the\ndescendants of Achaemenes have always possessed, besides being at\nvarious times sovereigns of Asia, as they now are;",
       "whereas, we and our\nfathers were but private persons. How ridiculous would you be thought if\nyou were to make a display of your ancestors and of Salamis the island\nof Eurysaces, or of Aegina, the habitation of the still more ancient\nAeacus, before Artaxerxes, son of Xerxes.",
       "You should consider how\ninferior we are to them both in the derivation of our birth and in other\nparticulars. Did you never observe how great is the property of the\nSpartan kings?",
       "And their wives are under the guardianship of the Ephori,\nwho are public officers and watch over them, in order to preserve as\nfar as possible the purity of the Heracleid blood.",
       "Still greater is the\ndifference among the Persians; for no one entertains a suspicion that\nthe father of a prince of Persia can be any one but the king. Such is\nthe awe which invests the person of the queen, that any other guard is\nneedless.",
       "And when the heir of the kingdom is born, all the subjects of\nthe king feast; and the day of his birth is for ever afterwards kept\nas a holiday and time of sacrifice by all Asia;",
-      "whereas, when you and\nI were born, Alcibiades, as the comic poet says, the neighbours hardly\nknew of the important event.",
+      "whereas, when you and\nI were born, @SmartAlcibiades, as the comic poet says, the neighbours hardly\nknew of the important event.",
       "After the birth of the royal child, he is\ntended, not by a good-for-nothing woman-nurse, but by the best of the\nroyal eunuchs, who are charged with the care of him, and especially with\nthe fashioning and right formation of his limbs,",
       "in order that he may\nbe as shapely as possible; which being their calling, they are held in\ngreat honour. And when the young prince is seven years old he is put\nupon a horse and taken to the riding-masters, and begins to go out\nhunting.",
       "And at fourteen years of age he is handed over to the royal\nschoolmasters, as they are termed: these are four chosen men, reputed to\nbe the best among the Persians of a certain age;",
       "and one of them is the\nwisest, another the justest, a third the most temperate, and a fourth\nthe most valiant.",
       "The first instructs him in the magianism of Zoroaster,\nthe son of Oromasus, which is the worship of the Gods, and teaches him\nalso the duties of his royal office; the second, who is the justest,\nteaches him always to speak the truth;",
       "the third, or most temperate,\nforbids him to allow any pleasure to be lord over him, that he may be\naccustomed to be a freeman and king indeed,--lord of himself first,\nand not a slave;",
-      "the most valiant trains him to be bold and fearless,\ntelling him that if he fears he is to deem himself a slave; whereas\nPericles gave you, Alcibiades, for a tutor Zopyrus the Thracian, a slave\nof his who was past all other work.",
+      "the most valiant trains him to be bold and fearless,\ntelling him that if he fears he is to deem himself a slave; whereas\nPericles gave you, @SmartAlcibiades, for a tutor Zopyrus the Thracian, a slave\nof his who was past all other work.",
       "I might enlarge on the nurture and\neducation of your rivals, but that would be tedious; and what I have\nsaid is a sufficient sample of what remains to be said.",
       "I have only\nto remark, by way of contrast, that no one cares about your birth or\nnurture or education, or, I may say, about that of any other Athenian,\nunless he has a lover who looks after him.",
       "And if you cast an eye on\nthe wealth, the luxury, the garments with their flowing trains, the\nanointings with myrrh, the multitudes of attendants, and all the other\nbravery of the Persians, you will be ashamed when you discern your own\ninferiority;",
@@ -2817,10 +2261,10 @@
       "and several other fair and fertile districts, which were reserved\nfor the adornment of the queen, and are named after her several\nhabiliments.",
       "Now, I cannot help thinking to myself, What if some one\nwere to go to Amestris, the wife of Xerxes and mother of Artaxerxes, and\nsay to her, There is a certain Dinomache,",
       "whose whole wardrobe is not\nworth fifty minae--and that will be more than the value--and she has a\nson who is possessed of a three-hundred acre patch at Erchiae,",
-      "and he\nhas a mind to go to war with your son--would she not wonder to what this\nAlcibiades trusts for success in the conflict? 'He must rely,' she would\nsay to herself, 'upon his training and wisdom--these are the things\nwhich Hellenes value.",
-      "' And if she heard that this Alcibiades who\nis making the attempt is not as yet twenty years old, and is wholly\nuneducated, and when his lover tells him that he ought to get education\nand training first, and then go and fight the king, he refuses,",
+      "and he\nhas a mind to go to war with your son--would she not wonder to what this\n@SmartAlcibiades trusts for success in the conflict? 'He must rely,' she would\nsay to herself, 'upon his training and wisdom--these are the things\nwhich Hellenes value.",
+      "' And if she heard that this @SmartAlcibiades who\nis making the attempt is not as yet twenty years old, and is wholly\nuneducated, and when his lover tells him that he ought to get education\nand training first, and then go and fight the king, he refuses,",
       "and says\nthat he is well enough as he is, would she not be amazed, and ask 'On\nwhat, then, does the youth rely?",
-      "' And if we replied: He relies on his\nbeauty, and stature, and birth, and mental endowments, she would think\nthat we were mad, Alcibiades, when she compared the advantages which you\npossess with those of her own people.",
+      "' And if we replied: He relies on his\nbeauty, and stature, and birth, and mental endowments, she would think\nthat we were mad, @SmartAlcibiades, when she compared the advantages which you\npossess with those of her own people.",
       "And I believe that even Lampido,\nthe daughter of Leotychides, the wife of Archidamus and mother of Agis,\nall of whom were kings, would have the same feeling; if, in your present\nuneducated state, you were to turn your thoughts against her son, she\ntoo would be equally astonished.",
       "But how disgraceful, that we should not\nhave as high a notion of what is required in us as our enemies'\nwives and mothers have of the qualities which are required in their\nassailants! O my friend, be persuaded by me, and hear the Delphian\ninscription,",
       "'Know thyself'--not the men whom you think, but these kings\nare our rivals, and we can only overcome them by pains and skill.",
@@ -2830,7 +2274,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "I entirely believe you; but what are the sort of pains which\nare required, Socrates,--can you tell me?"
+      "I entirely believe you; but what are the sort of pains which\nare required, @OWiseSocrates,--can you tell me?"
     ]
   },
   {
@@ -2841,9 +2285,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What is that?"
-    ]
+    "text": ["What is that?"]
   },
   {
     "author": "SOCRATES",
@@ -2853,21 +2295,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Who is he, Socrates?"
-    ]
+    "text": ["Who is he, @OWiseSocrates?"]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "God, Alcibiades, who up to this day has not allowed me to\nconverse with you; and he inspires in me the faith that I am especially\ndesigned to bring you to honour."
+      "God, @SmartAlcibiades, who up to this day has not allowed me to\nconverse with you; and he inspires in me the faith that I am especially\ndesigned to bring you to honour."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You are jesting, Socrates."
-    ]
+    "text": ["You are jesting, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -2877,33 +2315,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You are not far wrong about me."
-    ]
+    "text": ["You are not far wrong about me."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And certainly not about myself."
-    ]
+    "text": ["And certainly not about myself."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "But what can we do?"
-    ]
+    "text": ["But what can we do?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "There must be no hesitation or cowardice, my friend."
-    ]
+    "text": ["There must be no hesitation or cowardice, my friend."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That would not become us, Socrates."
-    ]
+    "text": ["That would not become us, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -2913,93 +2341,63 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "We do."
-    ]
+    "text": ["We do."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "In what sort of virtue?"
-    ]
+    "text": ["In what sort of virtue?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Plainly, in the virtue of good men."
-    ]
+    "text": ["Plainly, in the virtue of good men."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Who are good in what?"
-    ]
+    "text": ["Who are good in what?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Those, clearly, who are good in the management of affairs."
-    ]
+    "text": ["Those, clearly, who are good in the management of affairs."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What sort of affairs? Equestrian affairs?"
-    ]
+    "text": ["What sort of affairs? Equestrian affairs?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "You mean that about them we should have recourse to horsemen?"
-    ]
+    "text": ["You mean that about them we should have recourse to horsemen?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Well, naval affairs?"
-    ]
+    "text": ["Well, naval affairs?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "You mean that we should have recourse to sailors about them?"
-    ]
+    "text": ["You mean that we should have recourse to sailors about them?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then what affairs? And who do them?"
-    ]
+    "text": ["Then what affairs? And who do them?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The affairs which occupy Athenian gentlemen."
-    ]
+    "text": ["The affairs which occupy Athenian gentlemen."]
   },
   {
     "author": "SOCRATES",
@@ -3009,33 +2407,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The wise."
-    ]
+    "text": ["The wise."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And a man is good in respect of that in which he is wise?"
-    ]
+    "text": ["And a man is good in respect of that in which he is wise?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And evil in respect of that in which he is unwise?"
-    ]
+    "text": ["And evil in respect of that in which he is unwise?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -3045,45 +2433,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then he is good in that?"
-    ]
+    "text": ["Then he is good in that?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He is."
-    ]
+    "text": ["He is."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But in respect of the making of garments he is unwise?"
-    ]
+    "text": ["But in respect of the making of garments he is unwise?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then in that he is bad?"
-    ]
+    "text": ["Then in that he is bad?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3093,111 +2467,75 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But would you say that the good are the same as the bad?"
-    ]
+    "text": ["But would you say that the good are the same as the bad?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then whom do you call the good?"
-    ]
+    "text": ["Then whom do you call the good?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I mean by the good those who are able to rule in the city."
-    ]
+    "text": ["I mean by the good those who are able to rule in the city."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Not, surely, over horses?"
-    ]
+    "text": ["Not, surely, over horses?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But over men?"
-    ]
+    "text": ["But over men?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "When they are sick?"
-    ]
+    "text": ["When they are sick?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Or on a voyage?"
-    ]
+    "text": ["Or on a voyage?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Or reaping the harvest?"
-    ]
+    "text": ["Or reaping the harvest?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "When they are doing something or nothing?"
-    ]
+    "text": ["When they are doing something or nothing?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "When they are doing something, I should say."
-    ]
+    "text": ["When they are doing something, I should say."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "I wish that you would explain to me what this something is."
-    ]
+    "text": ["I wish that you would explain to me what this something is."]
   },
   {
     "author": "ALCIBIADES",
@@ -3213,9 +2551,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3225,21 +2561,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No; they are not."
-    ]
+    "text": ["No; they are not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "That would be the office of the pilot?"
-    ]
+    "text": ["That would be the office of the pilot?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3249,21 +2579,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "That would be the business of the teacher of the chorus?"
-    ]
+    "text": ["That would be the business of the teacher of the chorus?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3285,9 +2609,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The art of the pilot."
-    ]
+    "text": ["The art of the pilot."]
   },
   {
     "author": "SOCRATES",
@@ -3303,33 +2625,23 @@
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what do you call the art of fellow-citizens?"
-    ]
+    "text": ["And what do you call the art of fellow-citizens?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should say, good counsel, Socrates."
-    ]
+    "text": ["I should say, good counsel, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And is the art of the pilot evil counsel?"
-    ]
+    "text": ["And is the art of the pilot evil counsel?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But good counsel?"
-    ]
+    "text": ["But good counsel?"]
   },
   {
     "author": "ALCIBIADES",
@@ -3345,9 +2657,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The aim is the better order and preservation of the city."
-    ]
+    "text": ["The aim is the better order and preservation of the city."]
   },
   {
     "author": "SOCRATES",
@@ -3358,9 +2668,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3371,9 +2679,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -3384,56 +2690,40 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "I should say, Socrates:--the presence of friendship and the\nabsence of hatred and division."
+      "I should say, @OWiseSocrates:--the presence of friendship and the\nabsence of hatred and division."
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And do you mean by friendship agreement or disagreement?"
-    ]
+    "text": ["And do you mean by friendship agreement or disagreement?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Agreement."
-    ]
+    "text": ["Agreement."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What art makes cities agree about numbers?"
-    ]
+    "text": ["What art makes cities agree about numbers?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Arithmetic."
-    ]
+    "text": ["Arithmetic."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And private individuals?"
-    ]
+    "text": ["And private individuals?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The same."
-    ]
+    "text": ["The same."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what art makes each individual agree with himself?"
-    ]
+    "text": ["And what art makes each individual agree with himself?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "The same."
-    ]
+    "text": ["The same."]
   },
   {
     "author": "SOCRATES",
@@ -3443,9 +2733,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3455,21 +2743,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the same holds of the balance?"
-    ]
+    "text": ["And the same holds of the balance?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -3479,9 +2761,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should suppose so."
-    ]
+    "text": ["I should suppose so."]
   },
   {
     "author": "SOCRATES",
@@ -3498,26 +2778,20 @@
   {
     "author": "SOCRATES",
     "text": [
-      "But can a man, Alcibiades, agree with a woman about the\nspinning of wool, which she understands and he does not?"
+      "But can a man, @SmartAlcibiades, agree with a woman about the\nspinning of wool, which she understands and he does not?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No, truly."
-    ]
+    "text": ["No, truly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nor has he any need, for spinning is a female accomplishment."
-    ]
+    "text": ["Nor has he any need, for spinning is a female accomplishment."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3527,9 +2801,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -3539,9 +2811,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It would."
-    ]
+    "text": ["It would."]
   },
   {
     "author": "SOCRATES",
@@ -3551,57 +2821,39 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then in their knowledge there is no agreement of women and\nmen?"
-    ]
+    "text": ["Then in their knowledge there is no agreement of women and\nmen?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "There is not."
-    ]
+    "text": ["There is not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nor can there be friendship, if friendship is agreement?"
-    ]
+    "text": ["Nor can there be friendship, if friendship is agreement?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Plainly not."
-    ]
+    "text": ["Plainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then women are not loved by men when they do their own work?"
-    ]
+    "text": ["Then women are not loved by men when they do their own work?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose not."
-    ]
+    "text": ["I suppose not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nor men by women when they do their own work?"
-    ]
+    "text": ["Nor men by women when they do their own work?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "No."
-    ]
+    "text": ["No."]
   },
   {
     "author": "SOCRATES",
@@ -3612,7 +2864,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "I should rather think, Socrates, that the reverse is the\ntruth. "
+      "I should rather think, @OWiseSocrates, that the reverse is the\ntruth. "
     ]
   },
   {
@@ -3635,9 +2887,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Impossible."
-    ]
+    "text": ["Impossible."]
   },
   {
     "author": "SOCRATES",
@@ -3647,9 +2897,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What is just, certainly."
-    ]
+    "text": ["What is just, certainly."]
   },
   {
     "author": "SOCRATES",
@@ -3659,9 +2907,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I suppose that there must be, Socrates."
-    ]
+    "text": ["I suppose that there must be, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -3672,7 +2918,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "But, indeed, Socrates, I do not know what I am saying; and I\nhave long been, unconsciously to myself, in a most disgraceful state."
+      "But, indeed, @OWiseSocrates, I do not know what I am saying; and I\nhave long been, unconsciously to myself, in a most disgraceful state."
     ]
   },
   {
@@ -3684,20 +2930,18 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "And what should he do, Socrates, who would make the\ndiscovery?"
+      "And what should he do, @OWiseSocrates, who would make the\ndiscovery?"
     ]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "Answer questions, Alcibiades; and that is a process which,\nby the grace of God, if I may put any faith in my oracle, will be very\nimproving to both of us."
+      "Answer questions, @SmartAlcibiades; and that is a process which,\nby the grace of God, if I may put any faith in my oracle, will be very\nimproving to both of us."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "If I can be improved by answering, I will answer."
-    ]
+    "text": ["If I can be improved by answering, I will answer."]
   },
   {
     "author": "SOCRATES",
@@ -3708,9 +2952,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I should think so."
-    ]
+    "text": ["I should think so."]
   },
   {
     "author": "SOCRATES",
@@ -3720,9 +2962,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do not understand."
-    ]
+    "text": ["I do not understand."]
   },
   {
     "author": "SOCRATES",
@@ -3732,21 +2972,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the shoe in like manner to the foot?"
-    ]
+    "text": ["And the shoe in like manner to the foot?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3756,57 +2990,41 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do not comprehend, Socrates."
-    ]
+    "text": ["I do not comprehend, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "But you would admit, Alcibiades, that to take proper care of a\nthing is a correct expression?"
+      "But you would admit, @SmartAlcibiades, that to take proper care of a\nthing is a correct expression?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And taking proper care means improving?"
-    ]
+    "text": ["And taking proper care means improving?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what is the art which improves our shoes?"
-    ]
+    "text": ["And what is the art which improves our shoes?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Shoemaking."
-    ]
+    "text": ["Shoemaking."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then by shoemaking we take care of our shoes?"
-    ]
+    "text": ["Then by shoemaking we take care of our shoes?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3816,9 +3034,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "By some other art."
-    ]
+    "text": ["By some other art."]
   },
   {
     "author": "SOCRATES",
@@ -3828,21 +3044,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Which is gymnastic?"
-    ]
+    "text": ["Which is gymnastic?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -3852,9 +3062,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -3864,9 +3072,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -3876,9 +3082,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
@@ -3888,9 +3092,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -3900,9 +3102,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
@@ -3912,9 +3112,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly not."
-    ]
+    "text": ["Clearly not."]
   },
   {
     "author": "SOCRATES",
@@ -3924,9 +3122,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I cannot say."
-    ]
+    "text": ["I cannot say."]
   },
   {
     "author": "SOCRATES",
@@ -3936,9 +3132,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -3948,9 +3142,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Impossible."
-    ]
+    "text": ["Impossible."]
   },
   {
     "author": "SOCRATES",
@@ -3960,9 +3152,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -3972,9 +3162,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Impossible."
-    ]
+    "text": ["Impossible."]
   },
   {
     "author": "SOCRATES",
@@ -3985,20 +3173,18 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "At times I fancy, Socrates, that anybody can know himself;\nat other times the task appears to be very difficult."
+      "At times I fancy, @OWiseSocrates, that anybody can know himself;\nat other times the task appears to be very difficult."
     ]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "But whether easy or difficult, Alcibiades, still there is\nno other way; knowing what we are, we shall know how to take care of\nourselves, and if we are ignorant we shall not know."
+      "But whether easy or difficult, @SmartAlcibiades, still there is\nno other way; knowing what we are, we shall know how to take care of\nourselves, and if we are ignorant we shall not know."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4008,9 +3194,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "You say truly."
-    ]
+    "text": ["You say truly."]
   },
   {
     "author": "SOCRATES",
@@ -4020,81 +3204,55 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "As I am, with you?"
-    ]
+    "text": ["As I am, with you?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "That is to say, I, Socrates, am talking?"
-    ]
+    "text": ["That is to say, I, @OWiseSocrates, am talking?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And Alcibiades is my hearer?"
-    ]
+    "text": ["And @SmartAlcibiades is my hearer?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And I in talking use words?"
-    ]
+    "text": ["And I in talking use words?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And talking and using words have, I suppose, the same meaning?"
-    ]
+    "text": ["And talking and using words have, I suppose, the same meaning?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "To be sure."
-    ]
+    "text": ["To be sure."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the user is not the same as the thing which he uses?"
-    ]
+    "text": ["And the user is not the same as the thing which he uses?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What do you mean?"
-    ]
+    "text": ["What do you mean?"]
   },
   {
     "author": "SOCRATES",
@@ -4104,9 +3262,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -4116,9 +3272,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Of course not."
-    ]
+    "text": ["Of course not."]
   },
   {
     "author": "SOCRATES",
@@ -4128,9 +3282,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It is."
-    ]
+    "text": ["It is."]
   },
   {
     "author": "SOCRATES",
@@ -4140,9 +3292,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I do."
-    ]
+    "text": ["I do."]
   },
   {
     "author": "SOCRATES",
@@ -4152,33 +3302,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "With his hands as well."
-    ]
+    "text": ["With his hands as well."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "He uses his hands too?"
-    ]
+    "text": ["He uses his hands too?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And does he use his eyes in cutting leather?"
-    ]
+    "text": ["And does he use his eyes in cutting leather?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He does."
-    ]
+    "text": ["He does."]
   },
   {
     "author": "SOCRATES",
@@ -4188,9 +3328,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -4200,93 +3338,63 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And does not a man use the whole body?"
-    ]
+    "text": ["And does not a man use the whole body?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And that which uses is different from that which is used?"
-    ]
+    "text": ["And that which uses is different from that which is used?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then a man is not the same as his own body?"
-    ]
+    "text": ["Then a man is not the same as his own body?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is the inference."
-    ]
+    "text": ["That is the inference."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "What is he, then?"
-    ]
+    "text": ["What is he, then?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I cannot say."
-    ]
+    "text": ["I cannot say."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nay, you can say that he is the user of the body."
-    ]
+    "text": ["Nay, you can say that he is the user of the body."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the user of the body is the soul?"
-    ]
+    "text": ["And the user of the body is the soul?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, the soul."
-    ]
+    "text": ["Yes, the soul."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And the soul rules?"
-    ]
+    "text": ["And the soul rules?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -4296,33 +3404,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What is it?"
-    ]
+    "text": ["What is it?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "That man is one of three things."
-    ]
+    "text": ["That man is one of three things."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What are they?"
-    ]
+    "text": ["What are they?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Soul, body, or both together forming a whole."
-    ]
+    "text": ["Soul, body, or both together forming a whole."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -4332,45 +3430,31 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, we did."
-    ]
+    "text": ["Yes, we did."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And does the body rule over itself?"
-    ]
+    "text": ["And does the body rule over itself?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "It is subject, as we were saying?"
-    ]
+    "text": ["It is subject, as we were saying?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then that is not the principle which we are seeking?"
-    ]
+    "text": ["Then that is not the principle which we are seeking?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It would seem not."
-    ]
+    "text": ["It would seem not."]
   },
   {
     "author": "SOCRATES",
@@ -4380,9 +3464,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very likely."
-    ]
+    "text": ["Very likely."]
   },
   {
     "author": "SOCRATES",
@@ -4392,9 +3474,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -4404,21 +3484,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Just so."
-    ]
+    "text": ["Just so."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Is anything more required to prove that the soul is man?"
-    ]
+    "text": ["Is anything more required to prove that the soul is man?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not; the proof is, I think, quite sufficient."
-    ]
+    "text": ["Certainly not; the proof is, I think, quite sufficient."]
   },
   {
     "author": "SOCRATES",
@@ -4428,9 +3502,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What was that?"
-    ]
+    "text": ["What was that?"]
   },
   {
     "author": "SOCRATES",
@@ -4441,9 +3513,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "There is nothing."
-    ]
+    "text": ["There is nothing."]
   },
   {
     "author": "SOCRATES",
@@ -4453,21 +3523,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And that is just what I was saying before--that I, Socrates,\nam not arguing or talking with the face of Alcibiades, but with the real\nAlcibiades; or in other words, with his soul."
+      "And that is just what I was saying before--that I, @OWiseSocrates,\nam not arguing or talking with the face of @SmartAlcibiades, but with the real\n@SmartAlcibiades; or in other words, with his soul."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -4477,9 +3543,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That appears to be true."
-    ]
+    "text": ["That appears to be true."]
   },
   {
     "author": "SOCRATES",
@@ -4489,9 +3553,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4501,9 +3563,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He does not."
-    ]
+    "text": ["He does not."]
   },
   {
     "author": "SOCRATES",
@@ -4514,9 +3574,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4526,9 +3584,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I agree."
-    ]
+    "text": ["I agree."]
   },
   {
     "author": "SOCRATES",
@@ -4538,9 +3594,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Quite true."
-    ]
+    "text": ["Quite true."]
   },
   {
     "author": "SOCRATES",
@@ -4550,9 +3604,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4562,9 +3614,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I agree."
-    ]
+    "text": ["I agree."]
   },
   {
     "author": "SOCRATES",
@@ -4574,45 +3624,33 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And if any one has fallen in love with the person of\nAlcibiades, he loves not Alcibiades, but the belongings of Alcibiades?"
+      "And if any one has fallen in love with the person of\n@SmartAlcibiades, he loves not @SmartAlcibiades, but the belongings of @SmartAlcibiades?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But he who loves your soul is the true lover?"
-    ]
+    "text": ["But he who loves your soul is the true lover?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is the necessary inference."
-    ]
+    "text": ["That is the necessary inference."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "The lover of the body goes away when the flower of youth\nfades?"
-    ]
+    "text": ["The lover of the body goes away when the flower of youth\nfades?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -4622,9 +3660,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -4635,32 +3671,26 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Yes, Socrates; and therein you do well, and I hope that you\nwill remain."
+      "Yes, @OWiseSocrates; and therein you do well, and I hope that you\nwill remain."
     ]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then you must try to look your best."
-    ]
+    "text": ["Then you must try to look your best."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I will."
-    ]
+    "text": ["I will."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "The fact is, that there is only one lover of Alcibiades the\nson of Cleinias; there neither is nor ever has been seemingly any\nother; and he is his darling,--Socrates, the son of Sophroniscus and\nPhaenarete."
+      "The fact is, that there is only one lover of @SmartAlcibiades the\nson of Cleinias; there neither is nor ever has been seemingly any\nother; and he is his darling,--@OWiseSocrates, the son of Sophroniscus and\nPhaenarete."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -4670,9 +3700,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4684,9 +3712,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What caution?"
-    ]
+    "text": ["What caution?"]
   },
   {
     "author": "SOCRATES",
@@ -4697,7 +3723,7 @@
   {
     "author": "ALCIBIADES",
     "text": [
-      "Good advice, Socrates, but I wish that you would explain to\nme in what way I am to take care of myself."
+      "Good advice, @OWiseSocrates, but I wish that you would explain to\nme in what way I am to take care of myself."
     ]
   },
   {
@@ -4708,9 +3734,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -4720,21 +3744,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Leaving the care of our bodies and of our properties to\nothers?"
-    ]
+    "text": ["Leaving the care of our bodies and of our properties to\nothers?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very good."
-    ]
+    "text": ["Very good."]
   },
   {
     "author": "SOCRATES",
@@ -4744,9 +3762,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What have you in your thoughts, Socrates?"
-    ]
+    "text": ["What have you in your thoughts, @OWiseSocrates?"]
   },
   {
     "author": "SOCRATES",
@@ -4756,9 +3772,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What do you mean?"
-    ]
+    "text": ["What do you mean?"]
   },
   {
     "author": "SOCRATES",
@@ -4768,21 +3782,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what are the objects in looking at which we see ourselves?"
-    ]
+    "text": ["And what are the objects in looking at which we see ourselves?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly, Socrates, in looking at mirrors and the like."
-    ]
+    "text": ["Clearly, @OWiseSocrates, in looking at mirrors and the like."]
   },
   {
     "author": "SOCRATES",
@@ -4792,9 +3800,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -4804,9 +3810,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is quite true."
-    ]
+    "text": ["That is quite true."]
   },
   {
     "author": "SOCRATES",
@@ -4816,9 +3820,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is evident."
-    ]
+    "text": ["That is evident."]
   },
   {
     "author": "SOCRATES",
@@ -4828,9 +3830,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -4840,21 +3840,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "And if the soul, my dear Alcibiades, is ever to know herself,\nmust she not look at the soul; and especially at that part of the soul\nin which her virtue resides, and to any other which is like this?"
+      "And if the soul, my dear @SmartAlcibiades, is ever to know herself,\nmust she not look at the soul; and especially at that part of the soul\nin which her virtue resides, and to any other which is like this?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I agree, Socrates."
-    ]
+    "text": ["I agree, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -4864,9 +3860,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "There is none."
-    ]
+    "text": ["There is none."]
   },
   {
     "author": "SOCRATES",
@@ -4876,21 +3870,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And self-knowledge we agree to be wisdom?"
-    ]
+    "text": ["And self-knowledge we agree to be wisdom?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
@@ -4900,21 +3888,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "How can we, Socrates?"
-    ]
+    "text": ["How can we, @OWiseSocrates?"]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "You mean, that if you did not know Alcibiades, there would\nbe no possibility of your knowing that what belonged to Alcibiades was\nreally his?"
+      "You mean, that if you did not know @SmartAlcibiades, there would\nbe no possibility of your knowing that what belonged to @SmartAlcibiades was\nreally his?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "It would be quite impossible."
-    ]
+    "text": ["It would be quite impossible."]
   },
   {
     "author": "SOCRATES",
@@ -4924,9 +3908,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "How could we?"
-    ]
+    "text": ["How could we?"]
   },
   {
     "author": "SOCRATES",
@@ -4936,9 +3918,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly not."
-    ]
+    "text": ["Clearly not."]
   },
   {
     "author": "SOCRATES",
@@ -4949,9 +3929,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "So much may be supposed."
-    ]
+    "text": ["So much may be supposed."]
   },
   {
     "author": "SOCRATES",
@@ -4961,9 +3939,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very true."
-    ]
+    "text": ["Very true."]
   },
   {
     "author": "SOCRATES",
@@ -4973,57 +3949,39 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly not."
-    ]
+    "text": ["Certainly not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then such a man can never be a statesman?"
-    ]
+    "text": ["Then such a man can never be a statesman?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He cannot."
-    ]
+    "text": ["He cannot."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Nor an economist?"
-    ]
+    "text": ["Nor an economist?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He cannot."
-    ]
+    "text": ["He cannot."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "He will not know what he is doing?"
-    ]
+    "text": ["He will not know what he is doing?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He will not."
-    ]
+    "text": ["He will not."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And will not he who is ignorant fall into error?"
-    ]
+    "text": ["And will not he who is ignorant fall into error?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Assuredly."
-    ]
+    "text": ["Assuredly."]
   },
   {
     "author": "SOCRATES",
@@ -5033,57 +3991,39 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, indeed."
-    ]
+    "text": ["Yes, indeed."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And failing, will he not be miserable?"
-    ]
+    "text": ["And failing, will he not be miserable?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very."
-    ]
+    "text": ["Very."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what will become of those for whom he is acting?"
-    ]
+    "text": ["And what will become of those for whom he is acting?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "They will be miserable also."
-    ]
+    "text": ["They will be miserable also."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then he who is not wise and good cannot be happy?"
-    ]
+    "text": ["Then he who is not wise and good cannot be happy?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "He cannot."
-    ]
+    "text": ["He cannot."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "The bad, then, are miserable?"
-    ]
+    "text": ["The bad, then, are miserable?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, very."
-    ]
+    "text": ["Yes, very."]
   },
   {
     "author": "SOCRATES",
@@ -5093,21 +4033,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "Cities, then, if they are to be happy, do not want walls, or\ntriremes, or docks, or numbers, or size, Alcibiades, without virtue?"
+      "Cities, then, if they are to be happy, do not want walls, or\ntriremes, or docks, or numbers, or size, @SmartAlcibiades, without virtue?\n"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Indeed they do not."
-    ]
+    "text": ["Indeed they do not."]
   },
   {
     "author": "SOCRATES",
@@ -5117,21 +4053,15 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "But can a man give that which he has not?"
-    ]
+    "text": ["But can a man give that which he has not?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Impossible."
-    ]
+    "text": ["Impossible."]
   },
   {
     "author": "SOCRATES",
@@ -5141,9 +4071,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -5153,9 +4081,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Clearly."
-    ]
+    "text": ["Clearly."]
   },
   {
     "author": "SOCRATES",
@@ -5165,9 +4091,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
@@ -5177,9 +4101,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -5189,33 +4111,23 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And so you will act rightly and well?"
-    ]
+    "text": ["And so you will act rightly and well?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "In which case, I will be security for your happiness."
-    ]
+    "text": ["In which case, I will be security for your happiness."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I accept the security."
-    ]
+    "text": ["I accept the security."]
   },
   {
     "author": "SOCRATES",
@@ -5225,22 +4137,18 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Very possibly."
-    ]
+    "text": ["Very possibly."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "For if a man, my dear Alcibiades, has the power to do what he\nlikes, but has no understanding, what is likely to be the result, either\nto him as an individual or to the state--for example, if he be sick and\nis able to do what he likes,",
+      "For if a man, my dear @SmartAlcibiades, has the power to do what he\nlikes, but has no understanding, what is likely to be the result, either\nto him as an individual or to the state--for example, if he be sick and\nis able to do what he likes,",
       "not having the mind of a physician--having\nmoreover tyrannical power, and no one daring to reprove him, what will\nhappen to him? Will he not be likely to have his constitution ruined?"
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -5250,9 +4158,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes; I see that they will all perish."
-    ]
+    "text": ["Yes; I see that they will all perish."]
   },
   {
     "author": "SOCRATES",
@@ -5262,21 +4168,17 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
     "text": [
-      "Not tyrannical power, then, my good Alcibiades, should be the\naim either of individuals or states, if they would be happy, but virtue."
+      "Not tyrannical power, then, my good @SmartAlcibiades, should be the\naim either of individuals or states, if they would be happy, but virtue."
     ]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is true."
-    ]
+    "text": ["That is true."]
   },
   {
     "author": "SOCRATES",
@@ -5286,69 +4188,47 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "That is evident."
-    ]
+    "text": ["That is evident."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And that which is better is also nobler?"
-    ]
+    "text": ["And that which is better is also nobler?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And what is nobler is more becoming?"
-    ]
+    "text": ["And what is nobler is more becoming?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly."
-    ]
+    "text": ["Certainly."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then to the bad man slavery is more becoming, because better?"
-    ]
+    "text": ["Then to the bad man slavery is more becoming, because better?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "True."
-    ]
+    "text": ["True."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "Then vice is only suited to a slave?"
-    ]
+    "text": ["Then vice is only suited to a slave?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "And virtue to a freeman?"
-    ]
+    "text": ["And virtue to a freeman?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes."
-    ]
+    "text": ["Yes."]
   },
   {
     "author": "SOCRATES",
@@ -5358,9 +4238,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Certainly, Socrates."
-    ]
+    "text": ["Certainly, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
@@ -5370,9 +4248,7 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "I think that I am very conscious indeed of my own state."
-    ]
+    "text": ["I think that I am very conscious indeed of my own state."]
   },
   {
     "author": "SOCRATES",
@@ -5382,39 +4258,27 @@
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "Yes, I do."
-    ]
+    "text": ["Yes, I do."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "How?"
-    ]
+    "text": ["How?"]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "By your help, Socrates."
-    ]
+    "text": ["By your help, @OWiseSocrates."]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "That is not well said, Alcibiades."
-    ]
+    "text": ["That is not well said, @SmartAlcibiades."]
   },
   {
     "author": "ALCIBIADES",
-    "text": [
-      "What ought I to have said?"
-    ]
+    "text": ["What ought I to have said?"]
   },
   {
     "author": "SOCRATES",
-    "text": [
-      "By the help of God."
-    ]
+    "text": ["By the help of God."]
   },
   {
     "author": "ALCIBIADES",
@@ -5437,7 +4301,7 @@
   {
     "author": "SOCRATES",
     "text": [
-      "And I hope that you will persist; although I have fears, not\nbecause I doubt you; but I see the power of the state, which may be too\nmuch for both of us."
+      "And I hope that you will persist; although I have fears, not\nbecause I doubt you; but I see the power of the state, which may be too\nmuch for both of us.\n\n"
     ]
   }
 ]
