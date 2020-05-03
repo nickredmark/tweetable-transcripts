@@ -40,15 +40,12 @@ const split = (text) => {
 
 const dialogue = "alcibiades";
 
-const MAP = {
-  Alcibiades: "@SmartAlcibiades",
-};
-
 const raw = readFileSync(`./data/${dialogue}.txt`, "utf8");
 
 const lines = raw
   .replace(/\(compare[^)]+\) ?/gi, "")
   .split(/\n\n(?=\w[\w ]*:)/)
+  .map((line) => line.replace(/\n/g, " "))
   .filter(Boolean);
 
 const messages = [];
