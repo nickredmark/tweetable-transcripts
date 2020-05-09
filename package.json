@@ -7,7 +7,8 @@
     "letsdoit": "env-cmd node letsdoit",
     "process": "env-cmd node process",
     "tweet": "env-cmd node tweet",
-    "auth": "env-cmd node auth"
+    "auth": "env-cmd node auth",
+    "stats": "env-cmd node stats"
   },
   "keywords": [],
   "author": "",

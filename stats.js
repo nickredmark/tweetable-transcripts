@@ -1,9 +1,20 @@
-const alcibiades = require("./data/alcibiades.json");
+const SCRIPT = "jimrutt8";
+const data = require(`./data/${SCRIPT}.json`);
 
-console.log(alcibiades.length);
-console.log(alcibiades.reduce((sum, author) => sum + author.text.length, 0));
+console.log("Chunks: ", data.length);
 console.log(
-  alcibiades.reduce(
+  "Tweets:",
+  data.reduce((sum, author) => sum + author.text.length, 0)
+);
+console.log(
+  "Duration (days): ",
+  Math.round(
+    data.reduce((sum, author) => sum + 14 + author.text.length, 0) / 60 / 24
+  )
+);
+console.log(
+  "Longest tweet:",
+  data.reduce(
     (max, author) =>
       Math.max(
         max,

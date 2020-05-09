@@ -7,7 +7,7 @@ const twitter = new TwitterAPI({
   callback: "oob",
 });
 
-const SCRIPT = "alcibiades";
+const SCRIPT = "jimrutt8";
 
 const start = async () => {
   try {
@@ -25,7 +25,7 @@ const MINUTE = 60 * 1000;
 const FIFTEEN_MINUTES = 15 * MINUTE;
 
 const step = async () => {
-  const status = JSON.parse(readFileSync("./status.json", "utf8"));
+  const status = JSON.parse(readFileSync(`./status-${SCRIPT}.json`, "utf8"));
 
   const script = require(`./data/${SCRIPT}.json`);
 
@@ -41,7 +41,7 @@ const step = async () => {
           tweet.in_reply_to_status_id = status.lastTweet.id_str;
           tweet.auto_populate_reply_metadata = true;
         }
-		console.log(new Date());
+        console.log(new Date());
         console.log(tweet);
         const result = await new Promise((res, rej) =>
           twitter.statuses(
@@ -52,19 +52,19 @@ const step = async () => {
             (e, data, response) => (e ? rej(e) : res({ data, response }))
           )
         );
-		if (i !== 0 && j === 0) {
-			await new Promise((res, rej) =>
-				twitter.statuses(
-					"retweet",
-					{
-						id: result.data.id_str,
-					},
-					process.env[`${segment.author}_ACCESS_TOKEN`],
-					process.env[`${segment.author}_ACCESS_TOKEN_SECRET`],
-					(e, data, response) => (e ? rej(e) : res({ data, response }))
-				)
-        	);
-		}
+        if (i !== 0 && j === 0) {
+          await new Promise((res, rej) =>
+            twitter.statuses(
+              "retweet",
+              {
+                id: result.data.id_str,
+              },
+              process.env[`${segment.author}_ACCESS_TOKEN`],
+              process.env[`${segment.author}_ACCESS_TOKEN_SECRET`],
+              (e, data, response) => (e ? rej(e) : res({ data, response }))
+            )
+          );
+        }
         writeFileSync(
           "./status.json",
           JSON.stringify(

@@ -4,11 +4,16 @@ const LIMIT = 280;
 
 const levels = [
   /$/,
-  /(?<=[\.?$])[ \n]*/,
-  /(?<=[;\.?$])[ \n]*/,
-  /(?<=[,;\.?$])[ \n]*/,
+  /(?<=[\.?$]['”]?)[ \n]*/,
+  /(?<=[;\.?$]['”]?)[ \n]*/,
+  /(?<=[,;\.?$]['”]?)[ \n]*/,
   /[,;\.?$ \n]/,
 ];
+
+const MAP_AUTHOR = {
+  "Jim Rutt": "JIM_RUTT",
+  "Jordan Hall": "JORDAN_HALL",
+};
 
 const split = (text) => {
   const parts = [];
@@ -38,7 +43,7 @@ const split = (text) => {
   return parts;
 };
 
-const dialogue = "alcibiades";
+const dialogue = "jimrutt8";
 
 const raw = readFileSync(`./data/${dialogue}.txt`, "utf8");
 
@@ -49,17 +54,25 @@ const lines = raw
   .filter(Boolean);
 
 const messages = [];
+messages.push({
+  author: "JIM_RUTT",
+  text: [
+    "EP8 Jordan “Greenhall” Hall and Game B\nhttps://www.jimruttshow.com/jordan-greenhall-hall/",
+  ],
+});
 for (let i = 0; i < lines.length; i++) {
   const line = lines[i];
   const match = /^(\w[\w ]*): ?((.|\n)+)$/.exec(line);
   let text = match[2]
-    .replace(/Socrates/g, "@OWiseSocrates")
-    .replace(/Alcibiades/g, "@SmartAlcibiades");
+    .replace(/Jim Rutt/g, "@JimRuttBot")
+    .replace(/\bJim\b/g, "@JimRuttBot")
+    .replace(/Jordan Hall/g, "@JordanHallBot")
+    .replace(/\bJordan\b/g, "@JordanHallBot");
   if (i === 0) {
-    text = `@SmartAlcibiades ${text}`;
+    text = `@JordanHallBot ${text}`;
   }
   messages.push({
-    author: match[1],
+    author: MAP_AUTHOR[match[1]],
     text: split(text),
   });
 }
