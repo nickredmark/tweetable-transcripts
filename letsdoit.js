@@ -41,8 +41,9 @@ const step = async () => {
           tweet.in_reply_to_status_id = status.lastTweet.id_str;
           tweet.auto_populate_reply_metadata = true;
         }
+		console.log(new Date());
         console.log(tweet);
-        const res = await new Promise((res, rej) =>
+        const result = await new Promise((res, rej) =>
           twitter.statuses(
             "update",
             tweet,
@@ -51,12 +52,25 @@ const step = async () => {
             (e, data, response) => (e ? rej(e) : res({ data, response }))
           )
         );
+		if (i !== 0 && j === 0) {
+			await new Promise((res, rej) =>
+				twitter.statuses(
+					"retweet",
+					{
+						id: result.data.id_str,
+					},
+					process.env[`${segment.author}_ACCESS_TOKEN`],
+					process.env[`${segment.author}_ACCESS_TOKEN_SECRET`],
+					(e, data, response) => (e ? rej(e) : res({ data, response }))
+				)
+        	);
+		}
         writeFileSync(
           "./status.json",
           JSON.stringify(
             {
               current: status.current + 1,
-              lastTweet: res.data,
+              lastTweet: result.data,
             },
             null,
             2
