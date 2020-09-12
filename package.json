@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "env-cmd": "^10.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-twitter-api": "^1.8.0"
   }
 }
